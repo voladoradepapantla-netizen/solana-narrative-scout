@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Solana narrative scout dashboard for emerging news, GitHub, and onchain signals."
+    />
+    <title>Solana Narrative Scout</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="backdrop"></div>
+    <div class="noise"></div>
+    <main class="shell">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Superteam Earn - narrative detection tool</p>
+          <h1>Solana Narrative Scout</h1>
+          <p class="lede">
+            A live signal board for spotting what is heating up across Solana news,
+            open source repos, and chain throughput.
+          </p>
+          <div class="hero-actions">
+            <span class="pill pill-glow">News + GitHub + RPC</span>
+            <span class="pill">Fast enough to ship</span>
+            <span class="pill">Built for bounty review</span>
+          </div>
+        </div>
+        <div class="hero-metrics" id="heroMetrics"></div>
+      </section>
+
+      <section class="layout">
+        <aside class="sidebar">
+          <div class="panel panel-hero">
+            <div class="panel-heading">
+              <span class="panel-kicker">Chain pulse</span>
+              <span class="panel-value" id="pulseLabel">Live</span>
+            </div>
+            <div class="sparkline" id="sparkline"></div>
+            <dl class="stat-grid" id="chainStats"></dl>
+          </div>
+
+          <div class="panel">
+            <div class="panel-heading">
+              <span class="panel-kicker">Method</span>
+            </div>
+            <ul class="method-list">
+              <li>Solana news titles are pulled from <code>solana.com/news</code>.</li>
+              <li>GitHub repo search uses recent Solana and Anchor queries.</li>
+              <li>Onchain tempo comes from recent Solana performance samples.</li>
+              <li>Keywords are scored into narrative buckets and ranked.</li>
+            </ul>
+          </div>
+
+          <div class="panel">
+            <div class="panel-heading">
+              <span class="panel-kicker">Source feed</span>
+            </div>
+            <div class="source-stack" id="sourceStack"></div>
+          </div>
+        </aside>
+
+        <section class="main">
+          <div class="toolbar">
+            <label class="search">
+              <span>Search</span>
+              <input id="searchInput" type="search" placeholder="Type a narrative, repo, or headline" />
+            </label>
+            <div class="sort-group" role="tablist" aria-label="Sort narratives">
+              <button class="sort-btn is-active" data-sort="score" type="button">Momentum</button>
+              <button class="sort-btn" data-sort="recent" type="button">Freshness</button>
+              <button class="sort-btn" data-sort="alpha" type="button">A-Z</button>
+            </div>
+          </div>
+
+          <section class="panel panel-featured">
+            <div class="panel-heading">
+              <span class="panel-kicker">Top narratives</span>
+              <span class="panel-value" id="narrativeCount">0 themes</span>
+            </div>
+            <div class="narrative-grid" id="narrativeGrid"></div>
+          </section>
+
+          <section class="panel">
+            <div class="panel-heading">
+              <span class="panel-kicker">Build ideas</span>
+              <span class="panel-value">What to build next</span>
+            </div>
+            <div class="ideas-grid" id="ideasGrid"></div>
+          </section>
+
+          <section class="panel">
+            <div class="panel-heading">
+              <span class="panel-kicker">Recent news</span>
+              <span class="panel-value">Solana.com</span>
+            </div>
+            <div class="feed-grid" id="newsGrid"></div>
+          </section>
+
+          <section class="panel">
+            <div class="panel-heading">
+              <span class="panel-kicker">Recent repos</span>
+              <span class="panel-value">GitHub search</span>
+            </div>
+            <div class="feed-grid feed-grid-repo" id="repoGrid"></div>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <script src="./data/narratives.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
