@@ -10,6 +10,7 @@ const since = new Date(now.getTime() - lookbackDays * 24 * 60 * 60 * 1000);
 const sinceIso = since.toISOString().slice(0, 10);
 
 const githubToken = process.env.GITHUB_TOKEN || "";
+const strictLive = process.env.STRICT_LIVE === "1";
 const githubHeaders = {
   Accept: "application/vnd.github+json",
   "X-GitHub-Api-Version": "2022-11-28",
@@ -238,7 +239,8 @@ async function safeFetchText(url, options, fallback) {
       throw new Error(`${response.status} ${response.statusText}`);
     }
     return await response.text();
-  } catch {
+  } catch (error) {
+    if (strictLive) throw error;
     return fallback;
   }
 }
@@ -250,7 +252,8 @@ async function safeFetchJson(url, options, fallback) {
       throw new Error(`${response.status} ${response.statusText}`);
     }
     return await response.json();
-  } catch {
+  } catch (error) {
+    if (strictLive) throw error;
     return fallback;
   }
 }
@@ -419,6 +422,7 @@ async function fetchNews() {
     }));
   }
 
+  if (strictLive) throw new Error("Solana News returned no live articles; refusing fallback data.");
   return fallbackNews;
 }
 
@@ -457,7 +461,9 @@ async function fetchRepos() {
     }))
     .slice(0, 8);
 
-  return repos.length ? repos : fallbackRepos;
+  if (repos.length) return repos;
+  if (strictLive) throw new Error("GitHub search returned no live repositories; refusing fallback data.");
+  return fallbackRepos;
 }
 
 async function fetchSamples() {
@@ -478,7 +484,9 @@ async function fetchSamples() {
     { result: [] }
   );
 
-  return response.result?.length ? response.result : fallbackSamples;
+  if (response.result?.length) return response.result;
+  if (strictLive) throw new Error("Solana RPC returned no live samples; refusing fallback data.");
+  return fallbackSamples;
 }
 
 function buildChainSeries(samples) {
