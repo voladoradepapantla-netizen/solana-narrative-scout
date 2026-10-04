@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-03T16:19:29.109Z",
+  "generatedAt": "2026-10-04T16:51:27.904Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 4342.4,
-    "peakTps": 4461.2,
-    "avgSlots": 226.8
+    "avgTps": 5087,
+    "peakTps": 5372.3,
+    "avgSlots": 222.3
   },
   "sources": {
     "news": [
@@ -69,94 +69,94 @@
     ],
     "repos": [
       {
-        "full_name": "corsur/swarm-tips",
-        "html_url": "https://github.com/corsur/swarm-tips",
-        "description": "Swarm Tips — AI agent discovery and coordination. Smart contracts, MCP server, shared crates.",
-        "language": "Rust",
-        "stars": 1,
-        "pushed_at": "2026-10-03T16:19:13Z"
-      },
-      {
-        "full_name": "GiraeffleAeffle/ledger-of-life",
-        "html_url": "https://github.com/GiraeffleAeffle/ledger-of-life",
-        "description": "Ledger of Life: find a home, secure the deposit, keep your assets, help build your city. Rental deposit escrow (Solana), share-backed deposits and share loans (Robinhood Chain), local GPU AI paid per token (x402), public city data. Test networks only.",
-        "language": "TypeScript",
+        "full_name": "devansh0703/veil",
+        "html_url": "https://github.com/devansh0703/veil",
+        "description": "Veil — private payment rails for the agent economy. x402 agent payments settled confidentially on Solana via Token-2022 Confidential Balances. ",
+        "language": "HTML",
         "stars": 0,
-        "pushed_at": "2026-10-03T16:16:15Z"
-      },
-      {
-        "full_name": "PhoenixAB88/pulsar-network",
-        "html_url": "https://github.com/PhoenixAB88/pulsar-network",
-        "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
-        "language": "HTML",
-        "stars": 1,
-        "pushed_at": "2026-10-03T16:15:09Z"
-      },
-      {
-        "full_name": "drexthealpha/Knos",
-        "html_url": "https://github.com/drexthealpha/Knos",
-        "description": "Bounties that pay when the pull request is merged with the checks you named passing. Attested by a GitHub-signed workflow run, verified on Solana.",
-        "language": "Python",
-        "stars": 1,
-        "pushed_at": "2026-10-03T16:14:05Z"
-      },
-      {
-        "full_name": "Imperial-profaneness670/solived-jet-hud-v2-script",
-        "html_url": "https://github.com/Imperial-profaneness670/solived-jet-hud-v2-script",
-        "description": "Replace default GTA V and FiveM aircraft displays with this fighter jet HUD for live flight telemetry, target cues, and cockpit readouts.",
-        "language": "HTML",
-        "stars": 1,
-        "pushed_at": "2026-10-03T16:13:33Z"
+        "pushed_at": "2026-10-04T16:49:52Z"
       },
       {
         "full_name": "NeverSight/NeverD",
         "html_url": "https://github.com/NeverSight/NeverD",
         "description": "The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]",
         "language": "C++",
-        "stars": 74,
-        "pushed_at": "2026-10-03T16:14:46Z"
+        "stars": 77,
+        "pushed_at": "2026-10-04T16:49:16Z"
       },
       {
-        "full_name": "fomotsar-commits/tegridy-farms",
-        "html_url": "https://github.com/fomotsar-commits/tegridy-farms",
-        "description": "memetics.finance, the venue of Jungle Bay Island. The Tegridy Farms protocol: DEX, staking, NFT finance and token launchers on Ethereum, Base and Robinhood Chain. On Solana: Jupiter swap, Streamflow staking, and our own launcher and AMM (live since 2026-09-29, owned by a Squads vault).",
+        "full_name": "Therealratoshen/trade-on-my-behalf",
+        "html_url": "https://github.com/Therealratoshen/trade-on-my-behalf",
+        "description": "On-chain risk-gated perps agent for time-poor Solana traders. Rules enforced by an Anchor program at the signing layer. Built for the Colosseum Crypto World's Fair 2026 (Solana track).",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-03T16:05:17Z"
+        "pushed_at": "2026-10-04T16:49:11Z"
       },
       {
-        "full_name": "AyhanSh/jar-tips",
-        "html_url": "https://github.com/AyhanSh/jar-tips",
-        "description": "Jar: a restaurant tip pool the owner can't touch. Tips go into a Solana program vault and are split by confirmed hours. Superteam Poland · Finance Without Intermediaries.",
-        "language": "TypeScript",
+        "full_name": "andreolf/solbeat",
+        "html_url": "https://github.com/andreolf/solbeat",
+        "description": "The heartbeat terminal for the Solana network — zero-key, auto-updating ecosystem report & dashboard",
+        "language": "Python",
+        "stars": 1,
+        "pushed_at": "2026-10-04T16:47:28Z"
+      },
+      {
+        "full_name": "sabaazdn73/Agents-Marketplace",
+        "html_url": "https://github.com/sabaazdn73/Agents-Marketplace",
+        "description": "https://www.youtube.com/watch?v=AlatZXpy6Vo",
+        "language": "Python",
         "stars": 0,
-        "pushed_at": "2026-10-03T16:02:38Z"
+        "pushed_at": "2026-10-04T16:46:38Z"
+      },
+      {
+        "full_name": "usestrak/strak",
+        "html_url": "https://github.com/usestrak/strak",
+        "description": "Every tokenized stock on Solana, scored by turnover: is the volume real",
+        "language": "JavaScript",
+        "stars": 0,
+        "pushed_at": "2026-10-04T16:46:04Z"
+      },
+      {
+        "full_name": "2274802010922/pipicachu",
+        "html_url": "https://github.com/2274802010922/pipicachu",
+        "description": "Công cụ ký quỹ USDC Devnet cho admin trung gian: tạo link, bàn giao, xác nhận và trọng tài tranh chấp.",
+        "language": "TypeScript",
+        "stars": 1,
+        "pushed_at": "2026-10-04T16:45:42Z"
+      },
+      {
+        "full_name": "GeckoVision/gecko-surf",
+        "html_url": "https://github.com/GeckoVision/gecko-surf",
+        "description": "The knowledge graph for APIs your agent can trust. Maps any API — even messy, paywalled, or on-chain ones — into a verified graph your agent traverses instead of guessing, and simulates any action to a receipt before money moves.",
+        "language": "Python",
+        "stars": 8,
+        "pushed_at": "2026-10-04T16:28:53Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 4449 TPS",
-      "height": 100
+      "label": "Sample 6: 4807 TPS",
+      "height": 89
     },
     {
-      "label": "Sample 5: 4239 TPS",
-      "height": 95
+      "label": "Sample 5: 5072 TPS",
+      "height": 94
     },
     {
-      "label": "Sample 4: 4405 TPS",
-      "height": 99
-    },
-    {
-      "label": "Sample 3: 4164 TPS",
-      "height": 93
-    },
-    {
-      "label": "Sample 2: 4337 TPS",
+      "label": "Sample 4: 5208 TPS",
       "height": 97
     },
     {
-      "label": "Sample 1: 4461 TPS",
+      "label": "Sample 3: 4945 TPS",
+      "height": 92
+    },
+    {
+      "label": "Sample 2: 5118 TPS",
+      "height": 95
+    },
+    {
+      "label": "Sample 1: 5372 TPS",
       "height": 100
     }
   ],
@@ -182,24 +182,24 @@
         "Agent triage bot that turns news headlines into opportunity notes.",
         "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 132,
+      "score": 130,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "corsur/swarm-tips"
+          "text": "devansh0703/veil"
         },
         {
           "source": "GitHub",
-          "text": "NeverSight/NeverD"
+          "text": "GeckoVision/gecko-surf"
         },
         {
           "source": "GitHub",
-          "text": "PhoenixAB88/pulsar-network"
+          "text": "sabaazdn73/Agents-Marketplace"
         },
         {
           "source": "GitHub",
-          "text": "GiraeffleAeffle/ledger-of-life"
+          "text": "Therealratoshen/trade-on-my-behalf"
         }
       ]
     },
@@ -224,9 +224,13 @@
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 110,
+      "score": 118,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "devansh0703/veil"
+        },
         {
           "source": "News",
           "text": "MoneyGram Ramps launches on Solana"
@@ -259,16 +263,47 @@
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 106,
+      "score": 102,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "AyhanSh/jar-tips"
+          "text": "Therealratoshen/trade-on-my-behalf"
+        }
+      ]
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "radarLabel": "Market activity",
+      "accent": "#27D6C8",
+      "trend": "Warming",
+      "keywords": [
+        "swap",
+        "liquidity",
+        "trading",
+        "perp",
+        "prediction",
+        "yield",
+        "dex",
+        "market"
+      ],
+      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
+      "buildIdeas": [
+        "Dex narrative board that maps launch headlines to venue activity.",
+        "Perp and prediction market radar for fast-moving builder attention.",
+        "Liquidity lens that compares ecosystem launches with onchain pressure."
+      ],
+      "score": 96,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "sabaazdn73/Agents-Marketplace"
         },
         {
           "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
+          "text": "Therealratoshen/trade-on-my-behalf"
         }
       ]
     },
@@ -293,13 +328,9 @@
         "Community growth radar that highlights social and app-store signals.",
         "Campaign board for products trying to reach non-crypto users."
       ],
-      "score": 98,
+      "score": 92,
       "recency": 64,
       "evidence": [
-        {
-          "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
-        },
         {
           "source": "News",
           "text": "MoneyGram Ramps launches on Solana"
@@ -327,47 +358,12 @@
         "Treasury and settlement tracker for stablecoin rails.",
         "Cross-chain asset intake monitor for new market entrances."
       ],
-      "score": 98,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "GiraeffleAeffle/ledger-of-life"
-        },
-        {
-          "source": "News",
-          "text": "MoneyGram Ramps launches on Solana"
-        }
-      ]
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "radarLabel": "Market activity",
-      "accent": "#27D6C8",
-      "trend": "Warming",
-      "keywords": [
-        "swap",
-        "liquidity",
-        "trading",
-        "perp",
-        "prediction",
-        "yield",
-        "dex",
-        "market"
-      ],
-      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
-      "buildIdeas": [
-        "Dex narrative board that maps launch headlines to venue activity.",
-        "Perp and prediction market radar for fast-moving builder attention.",
-        "Liquidity lens that compares ecosystem launches with onchain pressure."
-      ],
       "score": 92,
       "recency": 64,
       "evidence": [
         {
-          "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
+          "source": "News",
+          "text": "MoneyGram Ramps launches on Solana"
         }
       ]
     },
@@ -392,12 +388,12 @@
         "Auto-generated audit brief with severity and repo context.",
         "Patch tracker for the fastest-moving public fixes."
       ],
-      "score": 84,
+      "score": 90,
       "recency": 64,
       "evidence": [
         {
-          "source": "Signal",
-          "text": "No direct keyword hit, but the theme remains relevant."
+          "source": "GitHub",
+          "text": "Therealratoshen/trade-on-my-behalf"
         }
       ]
     }
@@ -434,12 +430,12 @@
       ]
     },
     {
-      "category": "Consumer",
-      "title": "Consumer launch tracker that ranks the loudest new apps.",
-      "description": "Consumer products often start as launch headlines before they are obvious from pure onchain data. Community growth radar that highlights social and app-store signals. Campaign board for products trying to reach non-crypto users.",
+      "category": "DeFi",
+      "title": "Dex narrative board that maps launch headlines to venue activity.",
+      "description": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals. Perp and prediction market radar for fast-moving builder attention. Liquidity lens that compares ecosystem launches with onchain pressure.",
       "tags": [
-        "Emerging",
-        "Distribution",
+        "Warming",
+        "Market activity",
         "Ship fast"
       ]
     },
