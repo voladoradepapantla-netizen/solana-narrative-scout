@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-05T20:34:55.019Z",
+  "generatedAt": "2026-10-06T18:23:50.716Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 4879.6,
-    "peakTps": 5300.7,
-    "avgSlots": 224.3
+    "avgTps": 5228,
+    "peakTps": 5639.6,
+    "avgSlots": 224.5
   },
   "sources": {
     "news": [
@@ -46,6 +46,13 @@
         "signal": "Solana News"
       },
       {
+        "title": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions",
+        "url": "https://solana.com/news/solana-foundation-launches-solana-dv-p-an-atomic-settlement-program-built-for-financial-institutions",
+        "summary": "A fresh Solana headline worth folding into the narrative model.",
+        "published": "Recent",
+        "signal": "Solana News"
+      },
+      {
         "title": "Solana x AI: The Democratization Layer",
         "url": "https://solana.com/news/solana-ai-the-democratization-layer",
         "summary": "A fresh Solana headline worth folding into the narrative model.",
@@ -58,47 +65,16 @@
         "summary": "A fresh Solana headline worth folding into the narrative model.",
         "published": "Recent",
         "signal": "Solana News"
-      },
-      {
-        "title": "Slot Time Reduction Effects",
-        "url": "https://solana.com/news/slot-time-reduction-effects",
-        "summary": "A fresh Solana headline worth folding into the narrative model.",
-        "published": "Recent",
-        "signal": "Solana News"
       }
     ],
     "repos": [
       {
-        "full_name": "0xfnzero/sol-trade-sdk-python",
-        "html_url": "https://github.com/0xfnzero/sol-trade-sdk-python",
-        "description": "Python SDK for async Solana DEX trading bots with PumpFun, PumpSwap, Bonk, Raydium, Meteora, Jito, SWQoS, and Rust SDK parity.",
-        "language": "Python",
-        "stars": 5,
-        "pushed_at": "2026-10-05T20:32:55Z"
-      },
-      {
-        "full_name": "0xfnzero/sol-trade-sdk-nodejs",
-        "html_url": "https://github.com/0xfnzero/sol-trade-sdk-nodejs",
-        "description": "TypeScript SDK for Solana DEX trading bots with PumpFun, PumpSwap, Bonk, Raydium, Meteora, Jito, SWQoS, and Rust SDK parity.",
-        "language": "TypeScript",
-        "stars": 7,
-        "pushed_at": "2026-10-05T20:32:53Z"
-      },
-      {
-        "full_name": "cjohnsongh/guild-saga-analytics",
-        "html_url": "https://github.com/cjohnsongh/guild-saga-analytics",
-        "description": "Community-built analytics and historical explorer for Guild Saga Heroes on Solana.",
-        "language": "Python",
-        "stars": 0,
-        "pushed_at": "2026-10-05T20:31:52Z"
-      },
-      {
-        "full_name": "NeverSight/NeverD",
-        "html_url": "https://github.com/NeverSight/NeverD",
-        "description": "The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]",
-        "language": "C++",
-        "stars": 77,
-        "pushed_at": "2026-10-05T20:30:41Z"
+        "full_name": "elofid/Elofid",
+        "html_url": "https://github.com/elofid/Elofid",
+        "description": "Web3 security tools: token scanner with real buy/sell honeypot simulation, wallet approval firewall, Telegram scanner bot and developer API across 12 networks.",
+        "language": "HTML",
+        "stars": 1,
+        "pushed_at": "2026-10-06T18:23:06Z"
       },
       {
         "full_name": "PhoenixAB88/pulsar-network",
@@ -106,58 +82,82 @@
         "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
         "language": "HTML",
         "stars": 1,
-        "pushed_at": "2026-10-05T20:30:11Z"
+        "pushed_at": "2026-10-06T18:22:07Z"
       },
       {
-        "full_name": "0xfnzero/sol-trade-sdk-golang",
-        "html_url": "https://github.com/0xfnzero/sol-trade-sdk-golang",
-        "description": "Go SDK for Solana DEX trading bots with PumpFun, PumpSwap, Bonk, Raydium, Meteora, Jito, SWQoS, and Rust SDK parity.",
-        "language": "Go",
-        "stars": 7,
-        "pushed_at": "2026-10-05T20:30:03Z"
+        "full_name": "usestrak/strak",
+        "html_url": "https://github.com/usestrak/strak",
+        "description": "Every tokenized stock on Solana, scored by turnover: is the volume real",
+        "language": "JavaScript",
+        "stars": 0,
+        "pushed_at": "2026-10-06T18:21:35Z"
       },
       {
-        "full_name": "Mulaydm10/solana-hackathon",
-        "html_url": "https://github.com/Mulaydm10/solana-hackathon",
-        "description": "Fiducia: a marketplace where people and AI agents buy data, services and agent teams, with every rule enforced on Solana (escrow, budgets, mandates, attested listings).",
+        "full_name": "emeieiron/formation",
+        "html_url": "https://github.com/emeieiron/formation",
+        "description": null,
+        "language": "Kotlin",
+        "stars": 0,
+        "pushed_at": "2026-10-06T18:20:36Z"
+      },
+      {
+        "full_name": "Cobra-bit-prog/agent-guard",
+        "html_url": "https://github.com/Cobra-bit-prog/agent-guard",
+        "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-05T20:25:35Z"
+        "pushed_at": "2026-10-06T18:20:26Z"
       },
       {
-        "full_name": "szy0221/rust-blockchain-core",
-        "html_url": "https://github.com/szy0221/rust-blockchain-core",
-        "description": "🔗 Build a minimal blockchain using Rust, exploring key concepts like blocks, hashes, and chain linkage for a deeper understanding of blockchain technology.",
-        "language": "Rust",
+        "full_name": "superpios/node-scorecard",
+        "html_url": "https://github.com/superpios/node-scorecard",
+        "description": "Network intelligence & historical diagnostics for Sentinel dVPN nodes. Reliability scores, official SLA test results, lease tracking, \"where to host\" advisor — no backend, fully static.",
+        "language": "HTML",
+        "stars": 3,
+        "pushed_at": "2026-10-06T18:20:04Z"
+      },
+      {
+        "full_name": "FannBe/PledgeX",
+        "html_url": "https://github.com/FannBe/PledgeX",
+        "description": "PledgeX — stake test SKR on your daily steps on Solana devnet. Walk and it comes back; skip a day and that day's stake burns.",
+        "language": "Kotlin",
         "stars": 0,
-        "pushed_at": "2026-10-05T19:58:59Z"
+        "pushed_at": "2026-10-06T17:28:16Z"
+      },
+      {
+        "full_name": "jamesonchain/Ajo-Circles",
+        "html_url": "https://github.com/jamesonchain/Ajo-Circles",
+        "description": "Onchain rotating savings circles on Solana, with default cover and a portable savings score\"",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-06T17:15:13Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 4984 TPS",
-      "height": 94
+      "label": "Sample 6: 5134 TPS",
+      "height": 91
     },
     {
-      "label": "Sample 5: 5301 TPS",
-      "height": 100
-    },
-    {
-      "label": "Sample 4: 5094 TPS",
-      "height": 96
-    },
-    {
-      "label": "Sample 3: 4885 TPS",
-      "height": 92
-    },
-    {
-      "label": "Sample 2: 4395 TPS",
+      "label": "Sample 5: 4691 TPS",
       "height": 83
     },
     {
-      "label": "Sample 1: 4619 TPS",
-      "height": 87
+      "label": "Sample 4: 4986 TPS",
+      "height": 88
+    },
+    {
+      "label": "Sample 3: 5431 TPS",
+      "height": 96
+    },
+    {
+      "label": "Sample 2: 5486 TPS",
+      "height": 97
+    },
+    {
+      "label": "Sample 1: 5640 TPS",
+      "height": 100
     }
   ],
   "narratives": [
@@ -182,67 +182,104 @@
         "Agent triage bot that turns news headlines into opportunity notes.",
         "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 138,
+      "score": 122,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "Mulaydm10/solana-hackathon"
+          "text": "elofid/Elofid"
         },
         {
           "source": "GitHub",
-          "text": "NeverSight/NeverD"
+          "text": "FannBe/PledgeX"
+        },
+        {
+          "source": "GitHub",
+          "text": "jamesonchain/Ajo-Circles"
         },
         {
           "source": "GitHub",
           "text": "PhoenixAB88/pulsar-network"
-        },
-        {
-          "source": "GitHub",
-          "text": "szy0221/rust-blockchain-core"
         }
       ]
     },
     {
-      "id": "defi",
-      "name": "DeFi",
-      "radarLabel": "Market activity",
-      "accent": "#27D6C8",
-      "trend": "Warming",
+      "id": "payments",
+      "name": "Payments",
+      "radarLabel": "Commercial rails",
+      "accent": "#F0B84B",
+      "trend": "Rising",
       "keywords": [
-        "swap",
-        "liquidity",
-        "trading",
-        "perp",
-        "prediction",
-        "yield",
-        "dex",
-        "market"
+        "payment",
+        "payments",
+        "subscription",
+        "allowance",
+        "merchant",
+        "wallet",
+        "cash"
       ],
-      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
+      "summary": "Payments language is moving from abstract crypto talk into product announcements and platform integrations.",
       "buildIdeas": [
-        "Dex narrative board that maps launch headlines to venue activity.",
-        "Perp and prediction market radar for fast-moving builder attention.",
-        "Liquidity lens that compares ecosystem launches with onchain pressure."
+        "Merchant adoption tracker with new payment-product mentions.",
+        "Subscriptions and allowances dashboard for stablecoin flows.",
+        "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 120,
+      "score": 122,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "News",
+          "text": "MoneyGram Ramps launches on Solana"
+        },
+        {
+          "source": "News",
+          "text": "Payment Channels: 1 Million Payments Per Second"
+        },
+        {
+          "source": "GitHub",
+          "text": "elofid/Elofid"
+        },
+        {
+          "source": "GitHub",
+          "text": "Cobra-bit-prog/agent-guard"
+        }
+      ]
+    },
+    {
+      "id": "consumer",
+      "name": "Consumer",
+      "radarLabel": "Distribution",
+      "accent": "#FF7A85",
+      "trend": "Emerging",
+      "keywords": [
+        "consumer",
+        "social",
+        "game",
+        "mobile",
+        "community",
+        "launch",
+        "app"
+      ],
+      "summary": "Consumer products often start as launch headlines before they are obvious from pure onchain data.",
+      "buildIdeas": [
+        "Consumer launch tracker that ranks the loudest new apps.",
+        "Community growth radar that highlights social and app-store signals.",
+        "Campaign board for products trying to reach non-crypto users."
+      ],
+      "score": 106,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "0xfnzero/sol-trade-sdk-python"
+          "text": "elofid/Elofid"
         },
         {
-          "source": "GitHub",
-          "text": "0xfnzero/sol-trade-sdk-nodejs"
+          "source": "News",
+          "text": "MoneyGram Ramps launches on Solana"
         },
         {
-          "source": "GitHub",
-          "text": "0xfnzero/sol-trade-sdk-golang"
-        },
-        {
-          "source": "GitHub",
-          "text": "Mulaydm10/solana-hackathon"
+          "source": "News",
+          "text": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions"
         }
       ]
     },
@@ -268,88 +305,12 @@
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 112,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "0xfnzero/sol-trade-sdk-python"
-        },
-        {
-          "source": "GitHub",
-          "text": "0xfnzero/sol-trade-sdk-nodejs"
-        },
-        {
-          "source": "GitHub",
-          "text": "0xfnzero/sol-trade-sdk-golang"
-        }
-      ]
-    },
-    {
-      "id": "payments",
-      "name": "Payments",
-      "radarLabel": "Commercial rails",
-      "accent": "#F0B84B",
-      "trend": "Rising",
-      "keywords": [
-        "payment",
-        "payments",
-        "subscription",
-        "allowance",
-        "merchant",
-        "wallet",
-        "cash"
-      ],
-      "summary": "Payments language is moving from abstract crypto talk into product announcements and platform integrations.",
-      "buildIdeas": [
-        "Merchant adoption tracker with new payment-product mentions.",
-        "Subscriptions and allowances dashboard for stablecoin flows.",
-        "Consumer payment launch feed with one-click summaries."
-      ],
-      "score": 110,
+      "score": 102,
       "recency": 64,
       "evidence": [
         {
           "source": "News",
-          "text": "MoneyGram Ramps launches on Solana"
-        },
-        {
-          "source": "News",
-          "text": "Payment Channels: 1 Million Payments Per Second"
-        }
-      ]
-    },
-    {
-      "id": "consumer",
-      "name": "Consumer",
-      "radarLabel": "Distribution",
-      "accent": "#FF7A85",
-      "trend": "Emerging",
-      "keywords": [
-        "consumer",
-        "social",
-        "game",
-        "mobile",
-        "community",
-        "launch",
-        "app"
-      ],
-      "summary": "Consumer products often start as launch headlines before they are obvious from pure onchain data.",
-      "buildIdeas": [
-        "Consumer launch tracker that ranks the loudest new apps.",
-        "Community growth radar that highlights social and app-store signals.",
-        "Campaign board for products trying to reach non-crypto users."
-      ],
-      "score": 98,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "cjohnsongh/guild-saga-analytics"
-        },
-        {
-          "source": "News",
-          "text": "MoneyGram Ramps launches on Solana"
+          "text": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions"
         }
       ]
     },
@@ -384,6 +345,37 @@
       ]
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "radarLabel": "Market activity",
+      "accent": "#27D6C8",
+      "trend": "Warming",
+      "keywords": [
+        "swap",
+        "liquidity",
+        "trading",
+        "perp",
+        "prediction",
+        "yield",
+        "dex",
+        "market"
+      ],
+      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
+      "buildIdeas": [
+        "Dex narrative board that maps launch headlines to venue activity.",
+        "Perp and prediction market radar for fast-moving builder attention.",
+        "Liquidity lens that compares ecosystem launches with onchain pressure."
+      ],
+      "score": 90,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "superpios/node-scorecard"
+        }
+      ]
+    },
+    {
       "id": "security",
       "name": "Security",
       "radarLabel": "Risk surface",
@@ -404,12 +396,12 @@
         "Auto-generated audit brief with severity and repo context.",
         "Patch tracker for the fastest-moving public fixes."
       ],
-      "score": 84,
+      "score": 90,
       "recency": 64,
       "evidence": [
         {
-          "source": "Signal",
-          "text": "No direct keyword hit, but the theme remains relevant."
+          "source": "GitHub",
+          "text": "elofid/Elofid"
         }
       ]
     }
@@ -426,12 +418,22 @@
       ]
     },
     {
-      "category": "DeFi",
-      "title": "Dex narrative board that maps launch headlines to venue activity.",
-      "description": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals. Perp and prediction market radar for fast-moving builder attention. Liquidity lens that compares ecosystem launches with onchain pressure.",
+      "category": "Payments",
+      "title": "Merchant adoption tracker with new payment-product mentions.",
+      "description": "Payments language is moving from abstract crypto talk into product announcements and platform integrations. Subscriptions and allowances dashboard for stablecoin flows. Consumer payment launch feed with one-click summaries.",
       "tags": [
-        "Warming",
-        "Market activity",
+        "Rising",
+        "Commercial rails",
+        "Ship fast"
+      ]
+    },
+    {
+      "category": "Consumer",
+      "title": "Consumer launch tracker that ranks the loudest new apps.",
+      "description": "Consumer products often start as launch headlines before they are obvious from pure onchain data. Community growth radar that highlights social and app-store signals. Campaign board for products trying to reach non-crypto users.",
+      "tags": [
+        "Emerging",
+        "Distribution",
         "Ship fast"
       ]
     },
@@ -442,16 +444,6 @@
       "tags": [
         "Steady",
         "Builder stack",
-        "Ship fast"
-      ]
-    },
-    {
-      "category": "Payments",
-      "title": "Merchant adoption tracker with new payment-product mentions.",
-      "description": "Payments language is moving from abstract crypto talk into product announcements and platform integrations. Subscriptions and allowances dashboard for stablecoin flows. Consumer payment launch feed with one-click summaries.",
-      "tags": [
-        "Rising",
-        "Commercial rails",
         "Ship fast"
       ]
     },
