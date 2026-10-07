@@ -1,12 +1,12 @@
 window.NARRATIVE_SCOUT = {
-  "generatedAt": "2026-10-06T18:23:50.716Z",
+  "generatedAt": "2026-10-07T18:57:45.455Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 5228,
-    "peakTps": 5639.6,
-    "avgSlots": 224.5
+    "avgTps": 4826.1,
+    "peakTps": 5196.7,
+    "avgSlots": 223
   },
   "sources": {
     "news": [
@@ -53,15 +53,15 @@ window.NARRATIVE_SCOUT = {
         "signal": "Solana News"
       },
       {
-        "title": "Solana x AI: The Democratization Layer",
-        "url": "https://solana.com/news/solana-ai-the-democratization-layer",
+        "title": "Introducing Solana Microscope: Program Monitoring and Alerts",
+        "url": "https://solana.com/news/solana-microscope",
         "summary": "A fresh Solana headline worth folding into the narrative model.",
         "published": "Recent",
         "signal": "Solana News"
       },
       {
-        "title": "Open USD Is Live on Solana",
-        "url": "https://solana.com/news/open-usd-is-live-on-solana",
+        "title": "Solana x AI: The Democratization Layer",
+        "url": "https://solana.com/news/solana-ai-the-democratization-layer",
         "summary": "A fresh Solana headline worth folding into the narrative model.",
         "published": "Recent",
         "signal": "Solana News"
@@ -69,137 +69,138 @@ window.NARRATIVE_SCOUT = {
     ],
     "repos": [
       {
-        "full_name": "elofid/Elofid",
-        "html_url": "https://github.com/elofid/Elofid",
-        "description": "Web3 security tools: token scanner with real buy/sell honeypot simulation, wallet approval firewall, Telegram scanner bot and developer API across 12 networks.",
-        "language": "HTML",
-        "stars": 1,
-        "pushed_at": "2026-10-06T18:23:06Z"
+        "full_name": "gemwalletcom/wallet",
+        "html_url": "https://github.com/gemwalletcom/wallet",
+        "description": "Gem Wallet - Open Source iOS and Android Crypto Wallet",
+        "language": "Rust",
+        "stars": 304,
+        "pushed_at": "2026-10-07T18:57:38Z"
       },
       {
-        "full_name": "PhoenixAB88/pulsar-network",
-        "html_url": "https://github.com/PhoenixAB88/pulsar-network",
-        "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
-        "language": "HTML",
+        "full_name": "andreolf/solbeat",
+        "html_url": "https://github.com/andreolf/solbeat",
+        "description": "The heartbeat terminal for the Solana network — zero-key, auto-updating ecosystem report & dashboard",
+        "language": "Python",
         "stars": 1,
-        "pushed_at": "2026-10-06T18:22:07Z"
+        "pushed_at": "2026-10-07T18:56:54Z"
       },
       {
-        "full_name": "usestrak/strak",
-        "html_url": "https://github.com/usestrak/strak",
-        "description": "Every tokenized stock on Solana, scored by turnover: is the volume real",
+        "full_name": "techbronick/solvitals",
+        "html_url": "https://github.com/techbronick/solvitals",
+        "description": "Auto-updating report and interactive dashboard on the state of the Solana ecosystem — network health, validators, economics, tokenized assets, and live feature-gate activation. Python stdlib only, no API keys.",
+        "language": "Python",
+        "stars": 0,
+        "pushed_at": "2026-10-07T18:55:47Z"
+      },
+      {
+        "full_name": "anza-xyz/kit",
+        "html_url": "https://github.com/anza-xyz/kit",
+        "description": "Solana JavaScript SDK",
+        "language": "TypeScript",
+        "stars": 696,
+        "pushed_at": "2026-10-07T18:55:21Z"
+      },
+      {
+        "full_name": "fernandeecclesiastic98/fomo-extension-bot-order",
+        "html_url": "https://github.com/fernandeecclesiastic98/fomo-extension-bot-order",
+        "description": "Automate take-profit, stop-loss, and limit buy orders directly inside the fomo.family trade panel.",
         "language": "JavaScript",
         "stars": 0,
-        "pushed_at": "2026-10-06T18:21:35Z"
+        "pushed_at": "2026-10-07T18:54:52Z"
       },
       {
-        "full_name": "emeieiron/formation",
-        "html_url": "https://github.com/emeieiron/formation",
-        "description": null,
-        "language": "Kotlin",
+        "full_name": "Loufi49/property-testing-skill",
+        "html_url": "https://github.com/Loufi49/property-testing-skill",
+        "description": "Generate property-based tests with fast-check for TypeScript and Hypothesis for Python, catching edge cases humans miss.",
+        "language": null,
         "stars": 0,
-        "pushed_at": "2026-10-06T18:20:36Z"
+        "pushed_at": "2026-10-07T18:54:43Z"
       },
       {
-        "full_name": "Cobra-bit-prog/agent-guard",
-        "html_url": "https://github.com/Cobra-bit-prog/agent-guard",
-        "description": "Pre-sign policy for agent wallets on Solana, Ethereum, and Base.",
-        "language": "TypeScript",
+        "full_name": "quicknode/solana-program-examples",
+        "html_url": "https://github.com/quicknode/solana-program-examples",
+        "description": "Working, tested, up-to-date examples of common Solana programs - maintained by Quicknode",
+        "language": "Rust",
+        "stars": 33,
+        "pushed_at": "2026-10-07T18:48:17Z"
+      },
+      {
+        "full_name": "soledadpepsin39/NeoBank-Chain",
+        "html_url": "https://github.com/soledadpepsin39/NeoBank-Chain",
+        "description": "Build a blockchain banking super-app for IBAN, DeFi, ethical finance, and AI-powered money management on Solana",
+        "language": null,
         "stars": 0,
-        "pushed_at": "2026-10-06T18:20:26Z"
-      },
-      {
-        "full_name": "superpios/node-scorecard",
-        "html_url": "https://github.com/superpios/node-scorecard",
-        "description": "Network intelligence & historical diagnostics for Sentinel dVPN nodes. Reliability scores, official SLA test results, lease tracking, \"where to host\" advisor — no backend, fully static.",
-        "language": "HTML",
-        "stars": 3,
-        "pushed_at": "2026-10-06T18:20:04Z"
-      },
-      {
-        "full_name": "FannBe/PledgeX",
-        "html_url": "https://github.com/FannBe/PledgeX",
-        "description": "PledgeX — stake test SKR on your daily steps on Solana devnet. Walk and it comes back; skip a day and that day's stake burns.",
-        "language": "Kotlin",
-        "stars": 0,
-        "pushed_at": "2026-10-06T17:28:16Z"
-      },
-      {
-        "full_name": "jamesonchain/Ajo-Circles",
-        "html_url": "https://github.com/jamesonchain/Ajo-Circles",
-        "description": "Onchain rotating savings circles on Solana, with default cover and a portable savings score\"",
-        "language": "TypeScript",
-        "stars": 0,
-        "pushed_at": "2026-10-06T17:15:13Z"
+        "pushed_at": "2026-10-07T18:40:59Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 5134 TPS",
-      "height": 91
-    },
-    {
-      "label": "Sample 5: 4691 TPS",
-      "height": 83
-    },
-    {
-      "label": "Sample 4: 4986 TPS",
-      "height": 88
-    },
-    {
-      "label": "Sample 3: 5431 TPS",
-      "height": 96
-    },
-    {
-      "label": "Sample 2: 5486 TPS",
-      "height": 97
-    },
-    {
-      "label": "Sample 1: 5640 TPS",
+      "label": "Sample 6: 5197 TPS",
       "height": 100
+    },
+    {
+      "label": "Sample 5: 5149 TPS",
+      "height": 99
+    },
+    {
+      "label": "Sample 4: 4630 TPS",
+      "height": 89
+    },
+    {
+      "label": "Sample 3: 4789 TPS",
+      "height": 92
+    },
+    {
+      "label": "Sample 2: 4448 TPS",
+      "height": 86
+    },
+    {
+      "label": "Sample 1: 4744 TPS",
+      "height": 91
     }
   ],
   "narratives": [
     {
-      "id": "ai-agents",
-      "name": "AI Agents",
-      "radarLabel": "Agent tooling",
-      "accent": "#7C8CFF",
-      "trend": "Hot",
+      "id": "infra",
+      "name": "Infrastructure",
+      "radarLabel": "Builder stack",
+      "accent": "#9B7BFF",
+      "trend": "Steady",
       "keywords": [
-        "agent",
-        "agents",
-        "mcp",
-        "autonomous",
-        "assistant",
-        "bot",
-        "ai"
+        "rpc",
+        "anchor",
+        "program",
+        "indexer",
+        "validator",
+        "sdk",
+        "protocol",
+        "infrastructure"
       ],
-      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
+      "summary": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter.",
       "buildIdeas": [
-        "Narrative monitor that alerts when Solana agent repos spike.",
-        "Agent triage bot that turns news headlines into opportunity notes.",
-        "Protocol watchlist for MCP-compatible wallet and transaction tools."
+        "Repo watchlist for Anchor, SDK, and protocol releases.",
+        "Health dashboard for validators, RPC, and developer tooling mentions.",
+        "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 122,
+      "score": 128,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "elofid/Elofid"
+          "text": "anza-xyz/kit"
         },
         {
           "source": "GitHub",
-          "text": "FannBe/PledgeX"
+          "text": "techbronick/solvitals"
         },
         {
           "source": "GitHub",
-          "text": "jamesonchain/Ajo-Circles"
+          "text": "quicknode/solana-program-examples"
         },
         {
-          "source": "GitHub",
-          "text": "PhoenixAB88/pulsar-network"
+          "source": "News",
+          "text": "Introducing Solana Microscope: Program Monitoring and Alerts"
         }
       ]
     },
@@ -224,7 +225,7 @@ window.NARRATIVE_SCOUT = {
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 122,
+      "score": 116,
       "recency": 64,
       "evidence": [
         {
@@ -237,11 +238,49 @@ window.NARRATIVE_SCOUT = {
         },
         {
           "source": "GitHub",
-          "text": "elofid/Elofid"
+          "text": "gemwalletcom/wallet"
+        }
+      ]
+    },
+    {
+      "id": "ai-agents",
+      "name": "AI Agents",
+      "radarLabel": "Agent tooling",
+      "accent": "#7C8CFF",
+      "trend": "Hot",
+      "keywords": [
+        "agent",
+        "agents",
+        "mcp",
+        "autonomous",
+        "assistant",
+        "bot",
+        "ai"
+      ],
+      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
+      "buildIdeas": [
+        "Narrative monitor that alerts when Solana agent repos spike.",
+        "Agent triage bot that turns news headlines into opportunity notes.",
+        "Protocol watchlist for MCP-compatible wallet and transaction tools."
+      ],
+      "score": 110,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "soledadpepsin39/NeoBank-Chain"
         },
         {
           "source": "GitHub",
-          "text": "Cobra-bit-prog/agent-guard"
+          "text": "quicknode/solana-program-examples"
+        },
+        {
+          "source": "News",
+          "text": "Solana x AI: The Democratization Layer"
+        },
+        {
+          "source": "GitHub",
+          "text": "fernandeecclesiastic98/fomo-extension-bot-order"
         }
       ]
     },
@@ -271,43 +310,12 @@ window.NARRATIVE_SCOUT = {
       "evidence": [
         {
           "source": "GitHub",
-          "text": "elofid/Elofid"
+          "text": "soledadpepsin39/NeoBank-Chain"
         },
         {
           "source": "News",
           "text": "MoneyGram Ramps launches on Solana"
         },
-        {
-          "source": "News",
-          "text": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions"
-        }
-      ]
-    },
-    {
-      "id": "infra",
-      "name": "Infrastructure",
-      "radarLabel": "Builder stack",
-      "accent": "#9B7BFF",
-      "trend": "Steady",
-      "keywords": [
-        "rpc",
-        "anchor",
-        "program",
-        "indexer",
-        "validator",
-        "sdk",
-        "protocol",
-        "infrastructure"
-      ],
-      "summary": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter.",
-      "buildIdeas": [
-        "Repo watchlist for Anchor, SDK, and protocol releases.",
-        "Health dashboard for validators, RPC, and developer tooling mentions.",
-        "Release note summarizer that converts infra updates into digest cards."
-      ],
-      "score": 102,
-      "recency": 64,
-      "evidence": [
         {
           "source": "News",
           "text": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions"
@@ -335,9 +343,17 @@ window.NARRATIVE_SCOUT = {
         "Treasury and settlement tracker for stablecoin rails.",
         "Cross-chain asset intake monitor for new market entrances."
       ],
-      "score": 92,
+      "score": 104,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "techbronick/solvitals"
+        },
+        {
+          "source": "GitHub",
+          "text": "soledadpepsin39/NeoBank-Chain"
+        },
         {
           "source": "News",
           "text": "MoneyGram Ramps launches on Solana"
@@ -366,12 +382,12 @@ window.NARRATIVE_SCOUT = {
         "Perp and prediction market radar for fast-moving builder attention.",
         "Liquidity lens that compares ecosystem launches with onchain pressure."
       ],
-      "score": 90,
+      "score": 84,
       "recency": 64,
       "evidence": [
         {
-          "source": "GitHub",
-          "text": "superpios/node-scorecard"
+          "source": "Signal",
+          "text": "No direct keyword hit, but the theme remains relevant."
         }
       ]
     },
@@ -396,24 +412,24 @@ window.NARRATIVE_SCOUT = {
         "Auto-generated audit brief with severity and repo context.",
         "Patch tracker for the fastest-moving public fixes."
       ],
-      "score": 90,
+      "score": 84,
       "recency": 64,
       "evidence": [
         {
-          "source": "GitHub",
-          "text": "elofid/Elofid"
+          "source": "Signal",
+          "text": "No direct keyword hit, but the theme remains relevant."
         }
       ]
     }
   ],
   "recommendations": [
     {
-      "category": "AI Agents",
-      "title": "Narrative monitor that alerts when Solana agent repos spike.",
-      "description": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal. Agent triage bot that turns news headlines into opportunity notes. Protocol watchlist for MCP-compatible wallet and transaction tools.",
+      "category": "Infrastructure",
+      "title": "Repo watchlist for Anchor, SDK, and protocol releases.",
+      "description": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter. Health dashboard for validators, RPC, and developer tooling mentions. Release note summarizer that converts infra updates into digest cards.",
       "tags": [
-        "Hot",
-        "Agent tooling",
+        "Steady",
+        "Builder stack",
         "Ship fast"
       ]
     },
@@ -428,22 +444,22 @@ window.NARRATIVE_SCOUT = {
       ]
     },
     {
+      "category": "AI Agents",
+      "title": "Narrative monitor that alerts when Solana agent repos spike.",
+      "description": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal. Agent triage bot that turns news headlines into opportunity notes. Protocol watchlist for MCP-compatible wallet and transaction tools.",
+      "tags": [
+        "Hot",
+        "Agent tooling",
+        "Ship fast"
+      ]
+    },
+    {
       "category": "Consumer",
       "title": "Consumer launch tracker that ranks the loudest new apps.",
       "description": "Consumer products often start as launch headlines before they are obvious from pure onchain data. Community growth radar that highlights social and app-store signals. Campaign board for products trying to reach non-crypto users.",
       "tags": [
         "Emerging",
         "Distribution",
-        "Ship fast"
-      ]
-    },
-    {
-      "category": "Infrastructure",
-      "title": "Repo watchlist for Anchor, SDK, and protocol releases.",
-      "description": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter. Health dashboard for validators, RPC, and developer tooling mentions. Release note summarizer that converts infra updates into digest cards.",
-      "tags": [
-        "Steady",
-        "Builder stack",
         "Ship fast"
       ]
     },
