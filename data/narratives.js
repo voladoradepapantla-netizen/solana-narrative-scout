@@ -1,20 +1,27 @@
 window.NARRATIVE_SCOUT = {
-  "generatedAt": "2026-10-07T18:57:45.455Z",
+  "generatedAt": "2026-10-08T18:52:03.236Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 4826.1,
-    "peakTps": 5196.7,
-    "avgSlots": 223
+    "avgTps": 5597.1,
+    "peakTps": 5928.8,
+    "avgSlots": 220.8
   },
   "sources": {
     "news": [
       {
+        "title": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices",
+        "url": "https://solana.com/news/samsung-wallet",
+        "summary": "A fresh Solana headline worth folding into the narrative model.",
+        "published": "Latest",
+        "signal": "Solana News"
+      },
+      {
         "title": "Project Harmonia Brings Institutional Tokenized Funds to Solana",
         "url": "https://solana.com/news/project-harmonia-brings-institutional-tokenized-funds-to-solana",
         "summary": "A fresh Solana headline worth folding into the narrative model.",
-        "published": "Latest",
+        "published": "Recent",
         "signal": "Solana News"
       },
       {
@@ -39,9 +46,9 @@ window.NARRATIVE_SCOUT = {
         "signal": "Solana News"
       },
       {
-        "title": "MoneyGram Ramps launches on Solana",
-        "url": "https://solana.com/news/moneygram-ramps",
-        "summary": "Payments and real-world settlement are part of the story.",
+        "title": "Solana Ecosystem Roundup: September 2026",
+        "url": "https://solana.com/news/solana-ecosystem-roundup-september-2026",
+        "summary": "A fresh Solana headline worth folding into the narrative model.",
         "published": "Recent",
         "signal": "Solana News"
       },
@@ -58,149 +65,141 @@ window.NARRATIVE_SCOUT = {
         "summary": "A fresh Solana headline worth folding into the narrative model.",
         "published": "Recent",
         "signal": "Solana News"
-      },
-      {
-        "title": "Solana x AI: The Democratization Layer",
-        "url": "https://solana.com/news/solana-ai-the-democratization-layer",
-        "summary": "A fresh Solana headline worth folding into the narrative model.",
-        "published": "Recent",
-        "signal": "Solana News"
       }
     ],
     "repos": [
       {
-        "full_name": "gemwalletcom/wallet",
-        "html_url": "https://github.com/gemwalletcom/wallet",
-        "description": "Gem Wallet - Open Source iOS and Android Crypto Wallet",
-        "language": "Rust",
-        "stars": 304,
-        "pushed_at": "2026-10-07T18:57:38Z"
+        "full_name": "Parad0x-Labs/vool",
+        "html_url": "https://github.com/Parad0x-Labs/vool",
+        "description": "VOOL — the local-first personal agent runtime by Parad0x Labs: local LLM by default, memory, tools, permissions and signed receipts. macOS beta.",
+        "language": "Python",
+        "stars": 15,
+        "pushed_at": "2026-10-08T18:50:27Z"
       },
       {
-        "full_name": "andreolf/solbeat",
-        "html_url": "https://github.com/andreolf/solbeat",
-        "description": "The heartbeat terminal for the Solana network — zero-key, auto-updating ecosystem report & dashboard",
-        "language": "Python",
-        "stars": 1,
-        "pushed_at": "2026-10-07T18:56:54Z"
-      },
-      {
-        "full_name": "techbronick/solvitals",
-        "html_url": "https://github.com/techbronick/solvitals",
-        "description": "Auto-updating report and interactive dashboard on the state of the Solana ecosystem — network health, validators, economics, tokenized assets, and live feature-gate activation. Python stdlib only, no API keys.",
-        "language": "Python",
+        "full_name": "madgercoin/madger",
+        "html_url": "https://github.com/madgercoin/madger",
+        "description": "Official MADGER website and community hub — a community-driven Solana memecoin represented by the Honey Badger.",
+        "language": "HTML",
         "stars": 0,
-        "pushed_at": "2026-10-07T18:55:47Z"
+        "pushed_at": "2026-10-08T18:49:48Z"
       },
       {
-        "full_name": "anza-xyz/kit",
-        "html_url": "https://github.com/anza-xyz/kit",
-        "description": "Solana JavaScript SDK",
+        "full_name": "pgen0x/azimuth",
+        "html_url": "https://github.com/pgen0x/azimuth",
+        "description": "Azimuth — multi-venue concentrated-liquidity LP bot. Automated pool screening, entry and exit for Meteora DLMM on Solana and Uniswap v3/v4 on Robinhood Chain.",
+        "language": "Python",
+        "stars": 12,
+        "pushed_at": "2026-10-08T18:50:29Z"
+      },
+      {
+        "full_name": "NeverSight/NeverC",
+        "html_url": "https://github.com/NeverSight/NeverC",
+        "description": "The AI-friendly C23 compiler for security research, built on LLVM [WIP]",
+        "language": "C",
+        "stars": 92,
+        "pushed_at": "2026-10-08T18:49:43Z"
+      },
+      {
+        "full_name": "hronaut/hronaut",
+        "html_url": "https://github.com/hronaut/hronaut",
+        "description": "The browser your coding agent can come back to — visible, persistent, isolated workspaces over MCP.",
         "language": "TypeScript",
-        "stars": 696,
-        "pushed_at": "2026-10-07T18:55:21Z"
+        "stars": 6,
+        "pushed_at": "2026-10-08T18:48:42Z"
       },
       {
-        "full_name": "fernandeecclesiastic98/fomo-extension-bot-order",
-        "html_url": "https://github.com/fernandeecclesiastic98/fomo-extension-bot-order",
-        "description": "Automate take-profit, stop-loss, and limit buy orders directly inside the fomo.family trade panel.",
-        "language": "JavaScript",
+        "full_name": "solana-mobile/solana-mobile-docs",
+        "html_url": "https://github.com/solana-mobile/solana-mobile-docs",
+        "description": "This repository contains the official documentation for Solana Mobile.",
+        "language": "MDX",
+        "stars": 1,
+        "pushed_at": "2026-10-08T18:48:27Z"
+      },
+      {
+        "full_name": "kotebibo/sieveworks",
+        "html_url": "https://github.com/kotebibo/sieveworks",
+        "description": "Verifiable distributed compute marketplace on Solana — contributors run search chunks in-browser via WASM, a CLI, or a Tauri desktop app and are paid per verified chunk, with 0.45% verification overhead instead of replication's ~200%.",
+        "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-07T18:54:52Z"
+        "pushed_at": "2026-10-08T18:25:04Z"
       },
       {
-        "full_name": "Loufi49/property-testing-skill",
-        "html_url": "https://github.com/Loufi49/property-testing-skill",
-        "description": "Generate property-based tests with fast-check for TypeScript and Hypothesis for Python, catching edge cases humans miss.",
-        "language": null,
+        "full_name": "shariqazeem/scrip",
+        "html_url": "https://github.com/shariqazeem/scrip",
+        "description": "A rule on your Solana wallet: a slice of every USDC that lands becomes a tokenised stock in the same wallet, with a permanent on-chain receipt. Live on mainnet at scrip.work",
+        "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-07T18:54:43Z"
-      },
-      {
-        "full_name": "quicknode/solana-program-examples",
-        "html_url": "https://github.com/quicknode/solana-program-examples",
-        "description": "Working, tested, up-to-date examples of common Solana programs - maintained by Quicknode",
-        "language": "Rust",
-        "stars": 33,
-        "pushed_at": "2026-10-07T18:48:17Z"
-      },
-      {
-        "full_name": "soledadpepsin39/NeoBank-Chain",
-        "html_url": "https://github.com/soledadpepsin39/NeoBank-Chain",
-        "description": "Build a blockchain banking super-app for IBAN, DeFi, ethical finance, and AI-powered money management on Solana",
-        "language": null,
-        "stars": 0,
-        "pushed_at": "2026-10-07T18:40:59Z"
+        "pushed_at": "2026-10-08T18:06:50Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 5197 TPS",
+      "label": "Sample 6: 5929 TPS",
       "height": 100
     },
     {
-      "label": "Sample 5: 5149 TPS",
-      "height": 99
-    },
-    {
-      "label": "Sample 4: 4630 TPS",
-      "height": 89
-    },
-    {
-      "label": "Sample 3: 4789 TPS",
+      "label": "Sample 5: 5469 TPS",
       "height": 92
     },
     {
-      "label": "Sample 2: 4448 TPS",
-      "height": 86
+      "label": "Sample 4: 5575 TPS",
+      "height": 94
     },
     {
-      "label": "Sample 1: 4744 TPS",
+      "label": "Sample 3: 5679 TPS",
+      "height": 96
+    },
+    {
+      "label": "Sample 2: 5420 TPS",
       "height": 91
+    },
+    {
+      "label": "Sample 1: 5510 TPS",
+      "height": 93
     }
   ],
   "narratives": [
     {
-      "id": "infra",
-      "name": "Infrastructure",
-      "radarLabel": "Builder stack",
-      "accent": "#9B7BFF",
-      "trend": "Steady",
+      "id": "ai-agents",
+      "name": "AI Agents",
+      "radarLabel": "Agent tooling",
+      "accent": "#7C8CFF",
+      "trend": "Hot",
       "keywords": [
-        "rpc",
-        "anchor",
-        "program",
-        "indexer",
-        "validator",
-        "sdk",
-        "protocol",
-        "infrastructure"
+        "agent",
+        "agents",
+        "mcp",
+        "autonomous",
+        "assistant",
+        "bot",
+        "ai"
       ],
-      "summary": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter.",
+      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
       "buildIdeas": [
-        "Repo watchlist for Anchor, SDK, and protocol releases.",
-        "Health dashboard for validators, RPC, and developer tooling mentions.",
-        "Release note summarizer that converts infra updates into digest cards."
+        "Narrative monitor that alerts when Solana agent repos spike.",
+        "Agent triage bot that turns news headlines into opportunity notes.",
+        "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 128,
+      "score": 130,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "anza-xyz/kit"
+          "text": "pgen0x/azimuth"
         },
         {
           "source": "GitHub",
-          "text": "techbronick/solvitals"
+          "text": "hronaut/hronaut"
         },
         {
           "source": "GitHub",
-          "text": "quicknode/solana-program-examples"
+          "text": "Parad0x-Labs/vool"
         },
         {
-          "source": "News",
-          "text": "Introducing Solana Microscope: Program Monitoring and Alerts"
+          "source": "GitHub",
+          "text": "NeverSight/NeverC"
         }
       ]
     },
@@ -225,62 +224,55 @@ window.NARRATIVE_SCOUT = {
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 116,
+      "score": 114,
       "recency": 64,
       "evidence": [
-        {
-          "source": "News",
-          "text": "MoneyGram Ramps launches on Solana"
-        },
         {
           "source": "News",
           "text": "Payment Channels: 1 Million Payments Per Second"
         },
         {
           "source": "GitHub",
-          "text": "gemwalletcom/wallet"
+          "text": "shariqazeem/scrip"
+        },
+        {
+          "source": "News",
+          "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
         }
       ]
     },
     {
-      "id": "ai-agents",
-      "name": "AI Agents",
-      "radarLabel": "Agent tooling",
-      "accent": "#7C8CFF",
-      "trend": "Hot",
+      "id": "infra",
+      "name": "Infrastructure",
+      "radarLabel": "Builder stack",
+      "accent": "#9B7BFF",
+      "trend": "Steady",
       "keywords": [
-        "agent",
-        "agents",
-        "mcp",
-        "autonomous",
-        "assistant",
-        "bot",
-        "ai"
+        "rpc",
+        "anchor",
+        "program",
+        "indexer",
+        "validator",
+        "sdk",
+        "protocol",
+        "infrastructure"
       ],
-      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
+      "summary": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter.",
       "buildIdeas": [
-        "Narrative monitor that alerts when Solana agent repos spike.",
-        "Agent triage bot that turns news headlines into opportunity notes.",
-        "Protocol watchlist for MCP-compatible wallet and transaction tools."
+        "Repo watchlist for Anchor, SDK, and protocol releases.",
+        "Health dashboard for validators, RPC, and developer tooling mentions.",
+        "Release note summarizer that converts infra updates into digest cards."
       ],
       "score": 110,
       "recency": 64,
       "evidence": [
         {
-          "source": "GitHub",
-          "text": "soledadpepsin39/NeoBank-Chain"
-        },
-        {
-          "source": "GitHub",
-          "text": "quicknode/solana-program-examples"
+          "source": "News",
+          "text": "Introducing Solana Microscope: Program Monitoring and Alerts"
         },
         {
           "source": "News",
-          "text": "Solana x AI: The Democratization Layer"
-        },
-        {
-          "source": "GitHub",
-          "text": "fernandeecclesiastic98/fomo-extension-bot-order"
+          "text": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions"
         }
       ]
     },
@@ -305,58 +297,24 @@ window.NARRATIVE_SCOUT = {
         "Community growth radar that highlights social and app-store signals.",
         "Campaign board for products trying to reach non-crypto users."
       ],
-      "score": 106,
+      "score": 110,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "soledadpepsin39/NeoBank-Chain"
+          "text": "madgercoin/madger"
         },
         {
-          "source": "News",
-          "text": "MoneyGram Ramps launches on Solana"
+          "source": "GitHub",
+          "text": "kotebibo/sieveworks"
+        },
+        {
+          "source": "GitHub",
+          "text": "solana-mobile/solana-mobile-docs"
         },
         {
           "source": "News",
           "text": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions"
-        }
-      ]
-    },
-    {
-      "id": "rwa",
-      "name": "RWA",
-      "radarLabel": "Real assets",
-      "accent": "#61C4FF",
-      "trend": "Early",
-      "keywords": [
-        "asset",
-        "external",
-        "bank",
-        "moneygram",
-        "treasury",
-        "stablecoin",
-        "real world"
-      ],
-      "summary": "Asset onboarding and traditional finance headlines are the clearest bridge to real-world adoption stories.",
-      "buildIdeas": [
-        "RWA launch board with bank and asset-onboarding headlines.",
-        "Treasury and settlement tracker for stablecoin rails.",
-        "Cross-chain asset intake monitor for new market entrances."
-      ],
-      "score": 104,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "techbronick/solvitals"
-        },
-        {
-          "source": "GitHub",
-          "text": "soledadpepsin39/NeoBank-Chain"
-        },
-        {
-          "source": "News",
-          "text": "MoneyGram Ramps launches on Solana"
         }
       ]
     },
@@ -382,12 +340,46 @@ window.NARRATIVE_SCOUT = {
         "Perp and prediction market radar for fast-moving builder attention.",
         "Liquidity lens that compares ecosystem launches with onchain pressure."
       ],
-      "score": 84,
+      "score": 98,
       "recency": 64,
       "evidence": [
         {
-          "source": "Signal",
-          "text": "No direct keyword hit, but the theme remains relevant."
+          "source": "GitHub",
+          "text": "pgen0x/azimuth"
+        },
+        {
+          "source": "GitHub",
+          "text": "kotebibo/sieveworks"
+        }
+      ]
+    },
+    {
+      "id": "rwa",
+      "name": "RWA",
+      "radarLabel": "Real assets",
+      "accent": "#61C4FF",
+      "trend": "Early",
+      "keywords": [
+        "asset",
+        "external",
+        "bank",
+        "moneygram",
+        "treasury",
+        "stablecoin",
+        "real world"
+      ],
+      "summary": "Asset onboarding and traditional finance headlines are the clearest bridge to real-world adoption stories.",
+      "buildIdeas": [
+        "RWA launch board with bank and asset-onboarding headlines.",
+        "Treasury and settlement tracker for stablecoin rails.",
+        "Cross-chain asset intake monitor for new market entrances."
+      ],
+      "score": 92,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "News",
+          "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
         }
       ]
     },
@@ -412,24 +404,24 @@ window.NARRATIVE_SCOUT = {
         "Auto-generated audit brief with severity and repo context.",
         "Patch tracker for the fastest-moving public fixes."
       ],
-      "score": 84,
+      "score": 90,
       "recency": 64,
       "evidence": [
         {
-          "source": "Signal",
-          "text": "No direct keyword hit, but the theme remains relevant."
+          "source": "GitHub",
+          "text": "NeverSight/NeverC"
         }
       ]
     }
   ],
   "recommendations": [
     {
-      "category": "Infrastructure",
-      "title": "Repo watchlist for Anchor, SDK, and protocol releases.",
-      "description": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter. Health dashboard for validators, RPC, and developer tooling mentions. Release note summarizer that converts infra updates into digest cards.",
+      "category": "AI Agents",
+      "title": "Narrative monitor that alerts when Solana agent repos spike.",
+      "description": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal. Agent triage bot that turns news headlines into opportunity notes. Protocol watchlist for MCP-compatible wallet and transaction tools.",
       "tags": [
-        "Steady",
-        "Builder stack",
+        "Hot",
+        "Agent tooling",
         "Ship fast"
       ]
     },
@@ -444,12 +436,12 @@ window.NARRATIVE_SCOUT = {
       ]
     },
     {
-      "category": "AI Agents",
-      "title": "Narrative monitor that alerts when Solana agent repos spike.",
-      "description": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal. Agent triage bot that turns news headlines into opportunity notes. Protocol watchlist for MCP-compatible wallet and transaction tools.",
+      "category": "Infrastructure",
+      "title": "Repo watchlist for Anchor, SDK, and protocol releases.",
+      "description": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter. Health dashboard for validators, RPC, and developer tooling mentions. Release note summarizer that converts infra updates into digest cards.",
       "tags": [
-        "Hot",
-        "Agent tooling",
+        "Steady",
+        "Builder stack",
         "Ship fast"
       ]
     },
