@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-08T18:52:03.236Z",
+  "generatedAt": "2026-10-09T18:22:17.020Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 5597.1,
-    "peakTps": 5928.8,
-    "avgSlots": 220.8
+    "avgTps": 5048.5,
+    "peakTps": 5201,
+    "avgSlots": 272.7
   },
   "sources": {
     "news": [
@@ -69,95 +69,95 @@
     ],
     "repos": [
       {
-        "full_name": "Parad0x-Labs/vool",
-        "html_url": "https://github.com/Parad0x-Labs/vool",
-        "description": "VOOL — the local-first personal agent runtime by Parad0x Labs: local LLM by default, memory, tools, permissions and signed receipts. macOS beta.",
-        "language": "Python",
-        "stars": 15,
-        "pushed_at": "2026-10-08T18:50:27Z"
+        "full_name": "TuwaIO/satellite-connect",
+        "html_url": "https://github.com/TuwaIO/satellite-connect",
+        "description": "Connect to Web3 wallet with ease. The reliable satellite for your dapp.",
+        "language": "TypeScript",
+        "stars": 4,
+        "pushed_at": "2026-10-09T18:22:09Z"
       },
       {
-        "full_name": "madgercoin/madger",
-        "html_url": "https://github.com/madgercoin/madger",
-        "description": "Official MADGER website and community hub — a community-driven Solana memecoin represented by the Honey Badger.",
+        "full_name": "PhoenixAB88/pulsar-network",
+        "html_url": "https://github.com/PhoenixAB88/pulsar-network",
+        "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
         "language": "HTML",
-        "stars": 0,
-        "pushed_at": "2026-10-08T18:49:48Z"
-      },
-      {
-        "full_name": "pgen0x/azimuth",
-        "html_url": "https://github.com/pgen0x/azimuth",
-        "description": "Azimuth — multi-venue concentrated-liquidity LP bot. Automated pool screening, entry and exit for Meteora DLMM on Solana and Uniswap v3/v4 on Robinhood Chain.",
-        "language": "Python",
-        "stars": 12,
-        "pushed_at": "2026-10-08T18:50:29Z"
-      },
-      {
-        "full_name": "NeverSight/NeverC",
-        "html_url": "https://github.com/NeverSight/NeverC",
-        "description": "The AI-friendly C23 compiler for security research, built on LLVM [WIP]",
-        "language": "C",
-        "stars": 92,
-        "pushed_at": "2026-10-08T18:49:43Z"
-      },
-      {
-        "full_name": "hronaut/hronaut",
-        "html_url": "https://github.com/hronaut/hronaut",
-        "description": "The browser your coding agent can come back to — visible, persistent, isolated workspaces over MCP.",
-        "language": "TypeScript",
-        "stars": 6,
-        "pushed_at": "2026-10-08T18:48:42Z"
-      },
-      {
-        "full_name": "solana-mobile/solana-mobile-docs",
-        "html_url": "https://github.com/solana-mobile/solana-mobile-docs",
-        "description": "This repository contains the official documentation for Solana Mobile.",
-        "language": "MDX",
         "stars": 1,
-        "pushed_at": "2026-10-08T18:48:27Z"
+        "pushed_at": "2026-10-09T18:22:06Z"
       },
       {
-        "full_name": "kotebibo/sieveworks",
-        "html_url": "https://github.com/kotebibo/sieveworks",
-        "description": "Verifiable distributed compute marketplace on Solana — contributors run search chunks in-browser via WASM, a CLI, or a Tauri desktop app and are paid per verified chunk, with 0.45% verification overhead instead of replication's ~200%.",
+        "full_name": "TuwaIO/pulsar-core",
+        "html_url": "https://github.com/TuwaIO/pulsar-core",
+        "description": "Pulsar: A multi-chain engine providing reliable, real-time transaction signals.",
         "language": "TypeScript",
-        "stars": 0,
-        "pushed_at": "2026-10-08T18:25:04Z"
+        "stars": 3,
+        "pushed_at": "2026-10-09T18:22:05Z"
       },
       {
-        "full_name": "shariqazeem/scrip",
-        "html_url": "https://github.com/shariqazeem/scrip",
-        "description": "A rule on your Solana wallet: a slice of every USDC that lands becomes a tokenised stock in the same wallet, with a permanent on-chain receipt. Live on mainnet at scrip.work",
+        "full_name": "api-evangelist/exotic-markets",
+        "html_url": "https://github.com/api-evangelist/exotic-markets",
+        "description": "Exotic Markets — independent third-party profile of a public API surface, by API Evangelist. Exotic Markets is a decentralized options and structured-products protocol on the Solana blockchain, describing itself as the #1 options protocol on Solana and backed by Multicoin Capital.",
+        "language": null,
+        "stars": 0,
+        "pushed_at": "2026-10-09T18:21:30Z"
+      },
+      {
+        "full_name": "RohanGlitched/sheaf",
+        "html_url": "https://github.com/RohanGlitched/sheaf",
+        "description": "Index funds of tokenized stocks: one share, backed in kind by the real stocks in an onchain vault. Solana, Robinhood Chain, Tempo.",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-08T18:06:50Z"
+        "pushed_at": "2026-10-09T18:21:14Z"
+      },
+      {
+        "full_name": "nirholas/three.ws",
+        "html_url": "https://github.com/nirholas/three.ws",
+        "description": "Open-source platform for 3D AI agents. Turn text or a photo into a rigged, animated GLB avatar, give it an LLM brain, memory and a wallet, and embed it anywhere with one web component. Remote MCP server, x402 payments, Three.js, browser-native.",
+        "language": "JavaScript",
+        "stars": 228,
+        "pushed_at": "2026-10-09T18:20:09Z"
+      },
+      {
+        "full_name": "api-evangelist/backpack",
+        "html_url": "https://github.com/api-evangelist/backpack",
+        "description": "Backpack — independent third-party profile of a public API surface, by API Evangelist. Backpack is a Solana-first crypto company founded by Armani Ferrante and Tristan Yver — the same team behind Coral and the Anchor framework that powers a majority of Solana programs.",
+        "language": null,
+        "stars": 0,
+        "pushed_at": "2026-10-09T18:14:55Z"
+      },
+      {
+        "full_name": "gabchess/hedwig",
+        "html_url": "https://github.com/gabchess/hedwig",
+        "description": "Built to help autonomous agents doing payments onchain",
+        "language": "TypeScript",
+        "stars": 1,
+        "pushed_at": "2026-10-09T18:16:15Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 5929 TPS",
+      "label": "Sample 6: 5137 TPS",
+      "height": 99
+    },
+    {
+      "label": "Sample 5: 5201 TPS",
       "height": 100
     },
     {
-      "label": "Sample 5: 5469 TPS",
-      "height": 92
+      "label": "Sample 4: 5187 TPS",
+      "height": 100
     },
     {
-      "label": "Sample 4: 5575 TPS",
-      "height": 94
+      "label": "Sample 3: 5153 TPS",
+      "height": 99
     },
     {
-      "label": "Sample 3: 5679 TPS",
-      "height": 96
-    },
-    {
-      "label": "Sample 2: 5420 TPS",
-      "height": 91
-    },
-    {
-      "label": "Sample 1: 5510 TPS",
+      "label": "Sample 2: 4857 TPS",
       "height": 93
+    },
+    {
+      "label": "Sample 1: 4757 TPS",
+      "height": 91
     }
   ],
   "narratives": [
@@ -182,24 +182,24 @@
         "Agent triage bot that turns news headlines into opportunity notes.",
         "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 130,
+      "score": 138,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "pgen0x/azimuth"
+          "text": "gabchess/hedwig"
         },
         {
           "source": "GitHub",
-          "text": "hronaut/hronaut"
+          "text": "nirholas/three.ws"
         },
         {
           "source": "GitHub",
-          "text": "Parad0x-Labs/vool"
+          "text": "TuwaIO/pulsar-core"
         },
         {
           "source": "GitHub",
-          "text": "NeverSight/NeverC"
+          "text": "RohanGlitched/sheaf"
         }
       ]
     },
@@ -224,20 +224,24 @@
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 114,
+      "score": 132,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "nirholas/three.ws"
+        },
+        {
+          "source": "GitHub",
+          "text": "gabchess/hedwig"
+        },
         {
           "source": "News",
           "text": "Payment Channels: 1 Million Payments Per Second"
         },
         {
           "source": "GitHub",
-          "text": "shariqazeem/scrip"
-        },
-        {
-          "source": "News",
-          "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
+          "text": "TuwaIO/satellite-connect"
         }
       ]
     },
@@ -263,9 +267,17 @@
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 110,
+      "score": 124,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "api-evangelist/backpack"
+        },
+        {
+          "source": "GitHub",
+          "text": "api-evangelist/exotic-markets"
+        },
         {
           "source": "News",
           "text": "Introducing Solana Microscope: Program Monitoring and Alerts"
@@ -297,20 +309,12 @@
         "Community growth radar that highlights social and app-store signals.",
         "Campaign board for products trying to reach non-crypto users."
       ],
-      "score": 110,
+      "score": 98,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "madgercoin/madger"
-        },
-        {
-          "source": "GitHub",
-          "text": "kotebibo/sieveworks"
-        },
-        {
-          "source": "GitHub",
-          "text": "solana-mobile/solana-mobile-docs"
+          "text": "TuwaIO/satellite-connect"
         },
         {
           "source": "News",
@@ -340,16 +344,16 @@
         "Perp and prediction market radar for fast-moving builder attention.",
         "Liquidity lens that compares ecosystem launches with onchain pressure."
       ],
-      "score": 98,
+      "score": 96,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "pgen0x/azimuth"
+          "text": "RohanGlitched/sheaf"
         },
         {
           "source": "GitHub",
-          "text": "kotebibo/sieveworks"
+          "text": "api-evangelist/exotic-markets"
         }
       ]
     },
@@ -404,12 +408,12 @@
         "Auto-generated audit brief with severity and repo context.",
         "Patch tracker for the fastest-moving public fixes."
       ],
-      "score": 90,
+      "score": 84,
       "recency": 64,
       "evidence": [
         {
-          "source": "GitHub",
-          "text": "NeverSight/NeverC"
+          "source": "Signal",
+          "text": "No direct keyword hit, but the theme remains relevant."
         }
       ]
     }
