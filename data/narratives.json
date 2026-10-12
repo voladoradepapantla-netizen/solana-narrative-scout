@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-11T17:41:39.144Z",
+  "generatedAt": "2026-10-12T21:17:09.759Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 5370.1,
-    "peakTps": 5574.2,
-    "avgSlots": 272.5
+    "avgTps": 4966.6,
+    "peakTps": 5286.2,
+    "avgSlots": 273.2
   },
   "sources": {
     "news": [
@@ -46,22 +46,22 @@
         "signal": "Solana News"
       },
       {
+        "title": "Payments on Solana: September 2026 in Five Stories",
+        "url": "https://solana.com/news/payments-on-solana-september-2026-in-five-stories",
+        "summary": "Payments and real-world settlement are part of the story.",
+        "published": "Recent",
+        "signal": "Solana News"
+      },
+      {
+        "title": "Breakpoint 2026: Booked Breakpoint? Let's Get You Prepped (Part 2)",
+        "url": "https://solana.com/news/breakpoint-guide-part2",
+        "summary": "A fresh Solana headline worth folding into the narrative model.",
+        "published": "Recent",
+        "signal": "Solana News"
+      },
+      {
         "title": "Solana Ecosystem Roundup: September 2026",
         "url": "https://solana.com/news/solana-ecosystem-roundup-september-2026",
-        "summary": "A fresh Solana headline worth folding into the narrative model.",
-        "published": "Recent",
-        "signal": "Solana News"
-      },
-      {
-        "title": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions",
-        "url": "https://solana.com/news/solana-foundation-launches-solana-dv-p-an-atomic-settlement-program-built-for-financial-institutions",
-        "summary": "A fresh Solana headline worth folding into the narrative model.",
-        "published": "Recent",
-        "signal": "Solana News"
-      },
-      {
-        "title": "Introducing Solana Microscope: Program Monitoring and Alerts",
-        "url": "https://solana.com/news/solana-microscope",
         "summary": "A fresh Solana headline worth folding into the narrative model.",
         "published": "Recent",
         "signal": "Solana News"
@@ -69,44 +69,36 @@
     ],
     "repos": [
       {
-        "full_name": "pgen0x/azimuth",
-        "html_url": "https://github.com/pgen0x/azimuth",
-        "description": "Azimuth — multi-venue concentrated-liquidity LP bot. Automated pool screening, entry and exit for Meteora DLMM on Solana and Uniswap v3/v4 on Robinhood Chain.",
-        "language": "Python",
-        "stars": 13,
-        "pushed_at": "2026-10-11T17:41:20Z"
-      },
-      {
-        "full_name": "sinhnguyen0802/solana-program-vault",
-        "html_url": "https://github.com/sinhnguyen0802/solana-program-vault",
-        "description": "🔒 Build secure Solana programs like vaults, escrow services, and DeFi protocols with this robust starting point.",
-        "language": "Solidity",
-        "stars": 1,
-        "pushed_at": "2026-10-11T17:40:43Z"
-      },
-      {
-        "full_name": "Guilhermecmachado/ansible-server-hardening",
-        "html_url": "https://github.com/Guilhermecmachado/ansible-server-hardening",
-        "description": "🛡️ Secure your Ubuntu/Debian servers with automated hardening, user creation, SSH setup, firewall configuration, and brute-force protection.",
-        "language": null,
+        "full_name": "xykj61/grain",
+        "html_url": "https://github.com/xykj61/grain",
+        "description": "Grain -- one maintainer's living field, worked in the open where anyone may watch the making. Here stand the sessions, the ledgers, the reds, and the thinking still warm from the hand that wrote it. The public template waits at grain-ww/grain, ready for your own. Arriving new? Come in; this door was left open for you.",
+        "language": "Zig",
         "stars": 2,
-        "pushed_at": "2026-10-11T17:40:32Z"
+        "pushed_at": "2026-10-12T21:16:38Z"
       },
       {
-        "full_name": "h100envy/crawl-hive",
-        "html_url": "https://github.com/h100envy/crawl-hive",
-        "description": "A swarm of user-owned crawlers hunting memecoin signal on Solana. Spawn, earn reputation, trade crawlers, vote.",
+        "full_name": "Mulaydm10/solana-hackathon",
+        "html_url": "https://github.com/Mulaydm10/solana-hackathon",
+        "description": "Fiducia: a marketplace where people and AI agents buy data, services and agent teams, with every rule enforced on Solana (escrow, budgets, mandates, attested listings).",
         "language": "TypeScript",
-        "stars": 8,
-        "pushed_at": "2026-10-11T17:39:32Z"
+        "stars": 0,
+        "pushed_at": "2026-10-12T21:16:13Z"
       },
       {
-        "full_name": "romankurnovskii/etemaro",
-        "html_url": "https://github.com/romankurnovskii/etemaro",
-        "description": "Auto dlmm Meteora bot system",
+        "full_name": "Nakshatra480/SolFit",
+        "html_url": "https://github.com/Nakshatra480/SolFit",
+        "description": "SolFit is an AI-powered fitness dApp built on Solana, combining wallet-based authentication, real-time pose detection, workout tracking, and gamified fitness challenges.",
         "language": "TypeScript",
-        "stars": 45,
-        "pushed_at": "2026-10-11T17:41:31Z"
+        "stars": 0,
+        "pushed_at": "2026-10-12T21:16:00Z"
+      },
+      {
+        "full_name": "gemwalletcom/wallet",
+        "html_url": "https://github.com/gemwalletcom/wallet",
+        "description": "Gem Wallet - Open Source iOS and Android Crypto Wallet",
+        "language": "Rust",
+        "stars": 341,
+        "pushed_at": "2026-10-12T21:15:31Z"
       },
       {
         "full_name": "PhoenixAB88/pulsar-network",
@@ -114,93 +106,100 @@
         "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
         "language": "HTML",
         "stars": 1,
-        "pushed_at": "2026-10-11T17:37:05Z"
+        "pushed_at": "2026-10-12T21:15:11Z"
       },
       {
-        "full_name": "szy0221/rust-blockchain-core",
-        "html_url": "https://github.com/szy0221/rust-blockchain-core",
-        "description": "🔗 Build a minimal blockchain using Rust, exploring key concepts like blocks, hashes, and chain linkage for a deeper understanding of blockchain technology.",
-        "language": "Rust",
+        "full_name": "jenzylove/kept",
+        "html_url": "https://github.com/jenzylove/kept",
+        "description": "Kept: a trading wallet that saves part of every win. Sell for more than you paid and a share moves into a vault that is slow to open. Built for Solana Seeker.",
+        "language": "Kotlin",
         "stars": 0,
-        "pushed_at": "2026-10-11T17:40:41Z"
+        "pushed_at": "2026-10-12T21:15:09Z"
       },
       {
-        "full_name": "mutav-finance/mutav-protocol-solana",
-        "html_url": "https://github.com/mutav-finance/mutav-protocol-solana",
-        "description": "MUTAV reserve protocol on Solana — an on-chain, verifiable BRL guarantee reserve",
+        "full_name": "luzzwaix/mandateos-v2",
+        "html_url": "https://github.com/luzzwaix/mandateos-v2",
+        "description": "Recursive financial authority for agent organizations, enforced on Solana.",
+        "language": "TypeScript",
+        "stars": 1,
+        "pushed_at": "2026-10-12T21:07:11Z"
+      },
+      {
+        "full_name": "soufoka/capstan",
+        "html_url": "https://github.com/soufoka/capstan",
+        "description": "Escrow-backed advances for cross-border trade, on Solana",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-11T17:28:20Z"
+        "pushed_at": "2026-10-12T20:52:25Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 5252 TPS",
-      "height": 94
+      "label": "Sample 6: 4822 TPS",
+      "height": 91
     },
     {
-      "label": "Sample 5: 5171 TPS",
-      "height": 93
+      "label": "Sample 5: 5097 TPS",
+      "height": 96
     },
     {
-      "label": "Sample 4: 5231 TPS",
-      "height": 94
-    },
-    {
-      "label": "Sample 3: 5574 TPS",
+      "label": "Sample 4: 5286 TPS",
       "height": 100
     },
     {
-      "label": "Sample 2: 5492 TPS",
-      "height": 99
+      "label": "Sample 3: 4793 TPS",
+      "height": 91
     },
     {
-      "label": "Sample 1: 5502 TPS",
-      "height": 99
+      "label": "Sample 2: 4961 TPS",
+      "height": 94
+    },
+    {
+      "label": "Sample 1: 4840 TPS",
+      "height": 92
     }
   ],
   "narratives": [
     {
-      "id": "infra",
-      "name": "Infrastructure",
-      "radarLabel": "Builder stack",
-      "accent": "#9B7BFF",
-      "trend": "Steady",
+      "id": "payments",
+      "name": "Payments",
+      "radarLabel": "Commercial rails",
+      "accent": "#F0B84B",
+      "trend": "Rising",
       "keywords": [
-        "rpc",
-        "anchor",
-        "program",
-        "indexer",
-        "validator",
-        "sdk",
-        "protocol",
-        "infrastructure"
+        "payment",
+        "payments",
+        "subscription",
+        "allowance",
+        "merchant",
+        "wallet",
+        "cash"
       ],
-      "summary": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter.",
+      "summary": "Payments language is moving from abstract crypto talk into product announcements and platform integrations.",
       "buildIdeas": [
-        "Repo watchlist for Anchor, SDK, and protocol releases.",
-        "Health dashboard for validators, RPC, and developer tooling mentions.",
-        "Release note summarizer that converts infra updates into digest cards."
+        "Merchant adoption tracker with new payment-product mentions.",
+        "Subscriptions and allowances dashboard for stablecoin flows.",
+        "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 124,
+      "score": 136,
       "recency": 64,
       "evidence": [
         {
-          "source": "GitHub",
-          "text": "sinhnguyen0802/solana-program-vault"
-        },
-        {
-          "source": "GitHub",
-          "text": "mutav-finance/mutav-protocol-solana"
+          "source": "News",
+          "text": "Payment Channels: 1 Million Payments Per Second"
         },
         {
           "source": "News",
-          "text": "Introducing Solana Microscope: Program Monitoring and Alerts"
+          "text": "Payments on Solana: September 2026 in Five Stories"
         },
         {
-          "source": "News",
-          "text": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions"
+          "source": "GitHub",
+          "text": "jenzylove/kept"
+        },
+        {
+          "source": "GitHub",
+          "text": "Nakshatra480/SolFit"
         }
       ]
     },
@@ -225,58 +224,24 @@
         "Agent triage bot that turns news headlines into opportunity notes.",
         "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 116,
+      "score": 126,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "pgen0x/azimuth"
+          "text": "Mulaydm10/solana-hackathon"
         },
         {
           "source": "GitHub",
-          "text": "romankurnovskii/etemaro"
+          "text": "luzzwaix/mandateos-v2"
         },
         {
           "source": "GitHub",
-          "text": "PhoenixAB88/pulsar-network"
+          "text": "xykj61/grain"
         },
         {
           "source": "GitHub",
-          "text": "szy0221/rust-blockchain-core"
-        }
-      ]
-    },
-    {
-      "id": "payments",
-      "name": "Payments",
-      "radarLabel": "Commercial rails",
-      "accent": "#F0B84B",
-      "trend": "Rising",
-      "keywords": [
-        "payment",
-        "payments",
-        "subscription",
-        "allowance",
-        "merchant",
-        "wallet",
-        "cash"
-      ],
-      "summary": "Payments language is moving from abstract crypto talk into product announcements and platform integrations.",
-      "buildIdeas": [
-        "Merchant adoption tracker with new payment-product mentions.",
-        "Subscriptions and allowances dashboard for stablecoin flows.",
-        "Consumer payment launch feed with one-click summaries."
-      ],
-      "score": 108,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "News",
-          "text": "Payment Channels: 1 Million Payments Per Second"
-        },
-        {
-          "source": "News",
-          "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
+          "text": "jenzylove/kept"
         }
       ]
     },
@@ -302,42 +267,47 @@
         "Perp and prediction market radar for fast-moving builder attention.",
         "Liquidity lens that compares ecosystem launches with onchain pressure."
       ],
-      "score": 92,
+      "score": 96,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "pgen0x/azimuth"
+          "text": "jenzylove/kept"
+        },
+        {
+          "source": "GitHub",
+          "text": "Mulaydm10/solana-hackathon"
         }
       ]
     },
     {
-      "id": "consumer",
-      "name": "Consumer",
-      "radarLabel": "Distribution",
-      "accent": "#FF7A85",
-      "trend": "Emerging",
+      "id": "infra",
+      "name": "Infrastructure",
+      "radarLabel": "Builder stack",
+      "accent": "#9B7BFF",
+      "trend": "Steady",
       "keywords": [
-        "consumer",
-        "social",
-        "game",
-        "mobile",
-        "community",
-        "launch",
-        "app"
+        "rpc",
+        "anchor",
+        "program",
+        "indexer",
+        "validator",
+        "sdk",
+        "protocol",
+        "infrastructure"
       ],
-      "summary": "Consumer products often start as launch headlines before they are obvious from pure onchain data.",
+      "summary": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter.",
       "buildIdeas": [
-        "Consumer launch tracker that ranks the loudest new apps.",
-        "Community growth radar that highlights social and app-store signals.",
-        "Campaign board for products trying to reach non-crypto users."
+        "Repo watchlist for Anchor, SDK, and protocol releases.",
+        "Health dashboard for validators, RPC, and developer tooling mentions.",
+        "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 92,
+      "score": 94,
       "recency": 64,
       "evidence": [
         {
-          "source": "News",
-          "text": "Solana Foundation Launches Solana DvP, an Atomic Settlement Program Built for Financial Institutions"
+          "source": "Signal",
+          "text": "No direct keyword hit, but the theme remains relevant."
         }
       ]
     },
@@ -372,6 +342,36 @@
       ]
     },
     {
+      "id": "consumer",
+      "name": "Consumer",
+      "radarLabel": "Distribution",
+      "accent": "#FF7A85",
+      "trend": "Emerging",
+      "keywords": [
+        "consumer",
+        "social",
+        "game",
+        "mobile",
+        "community",
+        "launch",
+        "app"
+      ],
+      "summary": "Consumer products often start as launch headlines before they are obvious from pure onchain data.",
+      "buildIdeas": [
+        "Consumer launch tracker that ranks the loudest new apps.",
+        "Community growth radar that highlights social and app-store signals.",
+        "Campaign board for products trying to reach non-crypto users."
+      ],
+      "score": 90,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "Nakshatra480/SolFit"
+        }
+      ]
+    },
+    {
       "id": "security",
       "name": "Security",
       "radarLabel": "Risk surface",
@@ -392,24 +392,24 @@
         "Auto-generated audit brief with severity and repo context.",
         "Patch tracker for the fastest-moving public fixes."
       ],
-      "score": 90,
+      "score": 84,
       "recency": 64,
       "evidence": [
         {
-          "source": "GitHub",
-          "text": "Guilhermecmachado/ansible-server-hardening"
+          "source": "Signal",
+          "text": "No direct keyword hit, but the theme remains relevant."
         }
       ]
     }
   ],
   "recommendations": [
     {
-      "category": "Infrastructure",
-      "title": "Repo watchlist for Anchor, SDK, and protocol releases.",
-      "description": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter. Health dashboard for validators, RPC, and developer tooling mentions. Release note summarizer that converts infra updates into digest cards.",
+      "category": "Payments",
+      "title": "Merchant adoption tracker with new payment-product mentions.",
+      "description": "Payments language is moving from abstract crypto talk into product announcements and platform integrations. Subscriptions and allowances dashboard for stablecoin flows. Consumer payment launch feed with one-click summaries.",
       "tags": [
-        "Steady",
-        "Builder stack",
+        "Rising",
+        "Commercial rails",
         "Ship fast"
       ]
     },
@@ -424,22 +424,22 @@
       ]
     },
     {
-      "category": "Payments",
-      "title": "Merchant adoption tracker with new payment-product mentions.",
-      "description": "Payments language is moving from abstract crypto talk into product announcements and platform integrations. Subscriptions and allowances dashboard for stablecoin flows. Consumer payment launch feed with one-click summaries.",
-      "tags": [
-        "Rising",
-        "Commercial rails",
-        "Ship fast"
-      ]
-    },
-    {
       "category": "DeFi",
       "title": "Dex narrative board that maps launch headlines to venue activity.",
       "description": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals. Perp and prediction market radar for fast-moving builder attention. Liquidity lens that compares ecosystem launches with onchain pressure.",
       "tags": [
         "Warming",
         "Market activity",
+        "Ship fast"
+      ]
+    },
+    {
+      "category": "Infrastructure",
+      "title": "Repo watchlist for Anchor, SDK, and protocol releases.",
+      "description": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter. Health dashboard for validators, RPC, and developer tooling mentions. Release note summarizer that converts infra updates into digest cards.",
+      "tags": [
+        "Steady",
+        "Builder stack",
         "Ship fast"
       ]
     },
