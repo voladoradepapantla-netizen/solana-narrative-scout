@@ -1,12 +1,12 @@
 window.NARRATIVE_SCOUT = {
-  "generatedAt": "2026-10-12T21:17:09.759Z",
+  "generatedAt": "2026-10-13T19:18:45.764Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 4966.6,
-    "peakTps": 5286.2,
-    "avgSlots": 273.2
+    "avgTps": 5486.7,
+    "peakTps": 5734,
+    "avgSlots": 275.8
   },
   "sources": {
     "news": [
@@ -69,36 +69,44 @@ window.NARRATIVE_SCOUT = {
     ],
     "repos": [
       {
-        "full_name": "xykj61/grain",
-        "html_url": "https://github.com/xykj61/grain",
-        "description": "Grain -- one maintainer's living field, worked in the open where anyone may watch the making. Here stand the sessions, the ledgers, the reds, and the thinking still warm from the hand that wrote it. The public template waits at grain-ww/grain, ready for your own. Arriving new? Come in; this door was left open for you.",
-        "language": "Zig",
-        "stars": 2,
-        "pushed_at": "2026-10-12T21:16:38Z"
-      },
-      {
-        "full_name": "Mulaydm10/solana-hackathon",
-        "html_url": "https://github.com/Mulaydm10/solana-hackathon",
-        "description": "Fiducia: a marketplace where people and AI agents buy data, services and agent teams, with every rule enforced on Solana (escrow, budgets, mandates, attested listings).",
+        "full_name": "syanovee/pullit",
+        "html_url": "https://github.com/syanovee/pullit",
+        "description": "a blind box on solana. trading fees fill it, an ai packs it, a random holder opens it",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-12T21:16:13Z"
+        "pushed_at": "2026-10-13T19:18:19Z"
       },
       {
-        "full_name": "Nakshatra480/SolFit",
-        "html_url": "https://github.com/Nakshatra480/SolFit",
-        "description": "SolFit is an AI-powered fitness dApp built on Solana, combining wallet-based authentication, real-time pose detection, workout tracking, and gamified fitness challenges.",
-        "language": "TypeScript",
+        "full_name": "BadmonLano/flow-cycle",
+        "html_url": "https://github.com/BadmonLano/flow-cycle",
+        "description": "Live Flow Cycle Index Dashboard",
+        "language": "HTML",
+        "stars": 1,
+        "pushed_at": "2026-10-13T19:18:16Z"
+      },
+      {
+        "full_name": "aikih9831/DexBar",
+        "html_url": "https://github.com/aikih9831/DexBar",
+        "description": "Track token prices and set custom market alerts directly from the macOS menu bar using DexScreener data.",
+        "language": null,
         "stars": 0,
-        "pushed_at": "2026-10-12T21:16:00Z"
+        "pushed_at": "2026-10-13T19:18:07Z"
       },
       {
-        "full_name": "gemwalletcom/wallet",
-        "html_url": "https://github.com/gemwalletcom/wallet",
-        "description": "Gem Wallet - Open Source iOS and Android Crypto Wallet",
+        "full_name": "ionelmir9623/agents-connector",
+        "html_url": "https://github.com/ionelmir9623/agents-connector",
+        "description": "Connect Claude Code, Codex, and Gemini CLI agents through a local message bus to share tasks, chat, and review work in one tmux session.",
         "language": "Rust",
-        "stars": 341,
-        "pushed_at": "2026-10-12T21:15:31Z"
+        "stars": 1,
+        "pushed_at": "2026-10-13T19:18:02Z"
+      },
+      {
+        "full_name": "Corevangueriamadagascariensis558/Strata",
+        "html_url": "https://github.com/Corevangueriamadagascariensis558/Strata",
+        "description": "Run a 125-billion-parameter AI model on your own gaming PC with NVIDIA or AMD graphics (12GB+), free and open source.",
+        "language": null,
+        "stars": 0,
+        "pushed_at": "2026-10-13T19:16:51Z"
       },
       {
         "full_name": "PhoenixAB88/pulsar-network",
@@ -106,103 +114,53 @@ window.NARRATIVE_SCOUT = {
         "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
         "language": "HTML",
         "stars": 1,
-        "pushed_at": "2026-10-12T21:15:11Z"
+        "pushed_at": "2026-10-13T19:15:22Z"
       },
       {
-        "full_name": "jenzylove/kept",
-        "html_url": "https://github.com/jenzylove/kept",
-        "description": "Kept: a trading wallet that saves part of every win. Sell for more than you paid and a share moves into a vault that is slow to open. Built for Solana Seeker.",
-        "language": "Kotlin",
+        "full_name": "soledadpepsin39/NeoBank-Chain",
+        "html_url": "https://github.com/soledadpepsin39/NeoBank-Chain",
+        "description": "Build a blockchain banking super-app for IBAN, DeFi, ethical finance, and AI-powered money management on Solana",
+        "language": null,
         "stars": 0,
-        "pushed_at": "2026-10-12T21:15:09Z"
+        "pushed_at": "2026-10-13T19:15:17Z"
       },
       {
-        "full_name": "luzzwaix/mandateos-v2",
-        "html_url": "https://github.com/luzzwaix/mandateos-v2",
-        "description": "Recursive financial authority for agent organizations, enforced on Solana.",
-        "language": "TypeScript",
+        "full_name": "beardedwheatgrasswalkupapartment951/solana-skills",
+        "html_url": "https://github.com/beardedwheatgrasswalkupapartment951/solana-skills",
+        "description": "Define Solana program guarantees in .qedspec files and use QEDGen to validate specs and find bugs before mainnet deployment",
+        "language": null,
         "stars": 1,
-        "pushed_at": "2026-10-12T21:07:11Z"
-      },
-      {
-        "full_name": "soufoka/capstan",
-        "html_url": "https://github.com/soufoka/capstan",
-        "description": "Escrow-backed advances for cross-border trade, on Solana",
-        "language": "TypeScript",
-        "stars": 0,
-        "pushed_at": "2026-10-12T20:52:25Z"
+        "pushed_at": "2026-10-13T19:12:32Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 4822 TPS",
-      "height": 91
-    },
-    {
-      "label": "Sample 5: 5097 TPS",
-      "height": 96
-    },
-    {
-      "label": "Sample 4: 5286 TPS",
+      "label": "Sample 6: 5734 TPS",
       "height": 100
     },
     {
-      "label": "Sample 3: 4793 TPS",
-      "height": 91
+      "label": "Sample 5: 5282 TPS",
+      "height": 92
     },
     {
-      "label": "Sample 2: 4961 TPS",
+      "label": "Sample 4: 5372 TPS",
       "height": 94
     },
     {
-      "label": "Sample 1: 4840 TPS",
+      "label": "Sample 3: 5615 TPS",
+      "height": 98
+    },
+    {
+      "label": "Sample 2: 5660 TPS",
+      "height": 99
+    },
+    {
+      "label": "Sample 1: 5257 TPS",
       "height": 92
     }
   ],
   "narratives": [
-    {
-      "id": "payments",
-      "name": "Payments",
-      "radarLabel": "Commercial rails",
-      "accent": "#F0B84B",
-      "trend": "Rising",
-      "keywords": [
-        "payment",
-        "payments",
-        "subscription",
-        "allowance",
-        "merchant",
-        "wallet",
-        "cash"
-      ],
-      "summary": "Payments language is moving from abstract crypto talk into product announcements and platform integrations.",
-      "buildIdeas": [
-        "Merchant adoption tracker with new payment-product mentions.",
-        "Subscriptions and allowances dashboard for stablecoin flows.",
-        "Consumer payment launch feed with one-click summaries."
-      ],
-      "score": 136,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "News",
-          "text": "Payment Channels: 1 Million Payments Per Second"
-        },
-        {
-          "source": "News",
-          "text": "Payments on Solana: September 2026 in Five Stories"
-        },
-        {
-          "source": "GitHub",
-          "text": "jenzylove/kept"
-        },
-        {
-          "source": "GitHub",
-          "text": "Nakshatra480/SolFit"
-        }
-      ]
-    },
     {
       "id": "ai-agents",
       "name": "AI Agents",
@@ -224,24 +182,62 @@ window.NARRATIVE_SCOUT = {
         "Agent triage bot that turns news headlines into opportunity notes.",
         "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 126,
+      "score": 128,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "Mulaydm10/solana-hackathon"
+          "text": "ionelmir9623/agents-connector"
         },
         {
           "source": "GitHub",
-          "text": "luzzwaix/mandateos-v2"
+          "text": "syanovee/pullit"
         },
         {
           "source": "GitHub",
-          "text": "xykj61/grain"
+          "text": "aikih9831/DexBar"
         },
         {
           "source": "GitHub",
-          "text": "jenzylove/kept"
+          "text": "PhoenixAB88/pulsar-network"
+        }
+      ]
+    },
+    {
+      "id": "payments",
+      "name": "Payments",
+      "radarLabel": "Commercial rails",
+      "accent": "#F0B84B",
+      "trend": "Rising",
+      "keywords": [
+        "payment",
+        "payments",
+        "subscription",
+        "allowance",
+        "merchant",
+        "wallet",
+        "cash"
+      ],
+      "summary": "Payments language is moving from abstract crypto talk into product announcements and platform integrations.",
+      "buildIdeas": [
+        "Merchant adoption tracker with new payment-product mentions.",
+        "Subscriptions and allowances dashboard for stablecoin flows.",
+        "Consumer payment launch feed with one-click summaries."
+      ],
+      "score": 118,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "News",
+          "text": "Payment Channels: 1 Million Payments Per Second"
+        },
+        {
+          "source": "News",
+          "text": "Payments on Solana: September 2026 in Five Stories"
+        },
+        {
+          "source": "News",
+          "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
         }
       ]
     },
@@ -267,16 +263,24 @@ window.NARRATIVE_SCOUT = {
         "Perp and prediction market radar for fast-moving builder attention.",
         "Liquidity lens that compares ecosystem launches with onchain pressure."
       ],
-      "score": 96,
+      "score": 110,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "jenzylove/kept"
+          "text": "aikih9831/DexBar"
         },
         {
           "source": "GitHub",
-          "text": "Mulaydm10/solana-hackathon"
+          "text": "syanovee/pullit"
+        },
+        {
+          "source": "GitHub",
+          "text": "BadmonLano/flow-cycle"
+        },
+        {
+          "source": "GitHub",
+          "text": "ionelmir9623/agents-connector"
         }
       ]
     },
@@ -302,12 +306,12 @@ window.NARRATIVE_SCOUT = {
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 94,
+      "score": 100,
       "recency": 64,
       "evidence": [
         {
-          "source": "Signal",
-          "text": "No direct keyword hit, but the theme remains relevant."
+          "source": "GitHub",
+          "text": "beardedwheatgrasswalkupapartment951/solana-skills"
         }
       ]
     },
@@ -332,9 +336,13 @@ window.NARRATIVE_SCOUT = {
         "Treasury and settlement tracker for stablecoin rails.",
         "Cross-chain asset intake monitor for new market entrances."
       ],
-      "score": 92,
+      "score": 98,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "soledadpepsin39/NeoBank-Chain"
+        },
         {
           "source": "News",
           "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
@@ -367,7 +375,7 @@ window.NARRATIVE_SCOUT = {
       "evidence": [
         {
           "source": "GitHub",
-          "text": "Nakshatra480/SolFit"
+          "text": "soledadpepsin39/NeoBank-Chain"
         }
       ]
     },
@@ -392,27 +400,17 @@ window.NARRATIVE_SCOUT = {
         "Auto-generated audit brief with severity and repo context.",
         "Patch tracker for the fastest-moving public fixes."
       ],
-      "score": 84,
+      "score": 90,
       "recency": 64,
       "evidence": [
         {
-          "source": "Signal",
-          "text": "No direct keyword hit, but the theme remains relevant."
+          "source": "GitHub",
+          "text": "beardedwheatgrasswalkupapartment951/solana-skills"
         }
       ]
     }
   ],
   "recommendations": [
-    {
-      "category": "Payments",
-      "title": "Merchant adoption tracker with new payment-product mentions.",
-      "description": "Payments language is moving from abstract crypto talk into product announcements and platform integrations. Subscriptions and allowances dashboard for stablecoin flows. Consumer payment launch feed with one-click summaries.",
-      "tags": [
-        "Rising",
-        "Commercial rails",
-        "Ship fast"
-      ]
-    },
     {
       "category": "AI Agents",
       "title": "Narrative monitor that alerts when Solana agent repos spike.",
@@ -420,6 +418,16 @@ window.NARRATIVE_SCOUT = {
       "tags": [
         "Hot",
         "Agent tooling",
+        "Ship fast"
+      ]
+    },
+    {
+      "category": "Payments",
+      "title": "Merchant adoption tracker with new payment-product mentions.",
+      "description": "Payments language is moving from abstract crypto talk into product announcements and platform integrations. Subscriptions and allowances dashboard for stablecoin flows. Consumer payment launch feed with one-click summaries.",
+      "tags": [
+        "Rising",
+        "Commercial rails",
         "Ship fast"
       ]
     },
