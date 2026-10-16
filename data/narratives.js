@@ -1,12 +1,12 @@
 window.NARRATIVE_SCOUT = {
-  "generatedAt": "2026-10-15T17:03:07.997Z",
+  "generatedAt": "2026-10-16T16:41:30.995Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 4952.4,
-    "peakTps": 5020.5,
-    "avgSlots": 277.5
+    "avgTps": 5086.5,
+    "peakTps": 5273.6,
+    "avgSlots": 276.8
   },
   "sources": {
     "news": [
@@ -69,44 +69,36 @@ window.NARRATIVE_SCOUT = {
     ],
     "repos": [
       {
-        "full_name": "Crossmint/crossmint-sdk",
-        "html_url": "https://github.com/Crossmint/crossmint-sdk",
-        "description": "Crossmint SDK for client and server integrations",
-        "language": "TypeScript",
-        "stars": 52,
-        "pushed_at": "2026-10-15T17:02:32Z"
-      },
-      {
         "full_name": "COEFR/Argos-Memecoin-sniper",
         "html_url": "https://github.com/COEFR/Argos-Memecoin-sniper",
         "description": "Argos: detecta grupos de wallets que compran juntas en Solana leyendo la blockchain. Cosecha lanzamientos de pump.fun, arma los grupos con union-find, mide cada aviso contra el resultado real y corre un test de control contra tokens al azar.",
         "language": "Python",
         "stars": 1,
-        "pushed_at": "2026-10-15T17:02:17Z"
+        "pushed_at": "2026-10-16T16:41:12Z"
       },
       {
-        "full_name": "dfinity/oisy-wallet",
-        "html_url": "https://github.com/dfinity/oisy-wallet",
-        "description": "A browser-based, multi-chain wallet hosted on the Internet Computer",
-        "language": "TypeScript",
-        "stars": 178,
-        "pushed_at": "2026-10-15T17:02:02Z"
+        "full_name": "New1Direction/repo.ing",
+        "html_url": "https://github.com/New1Direction/repo.ing",
+        "description": "The market layer for open source. GitHub repository markets on Solana, builder earnings, and transparent protocol accounting.",
+        "language": "JavaScript",
+        "stars": 3,
+        "pushed_at": "2026-10-16T16:40:48Z"
       },
       {
-        "full_name": "cjohnsongh/guild-saga-analytics",
-        "html_url": "https://github.com/cjohnsongh/guild-saga-analytics",
-        "description": "Community-built analytics and historical explorer for Guild Saga Heroes on Solana.",
-        "language": "Python",
+        "full_name": "NeverSight/NeverD",
+        "html_url": "https://github.com/NeverSight/NeverD",
+        "description": "The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]",
+        "language": "C++",
+        "stars": 92,
+        "pushed_at": "2026-10-16T16:40:44Z"
+      },
+      {
+        "full_name": "lienhoatienphung-svg/defi-bonus-yield-radar",
+        "html_url": "https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar",
+        "description": "Real-time DeFi Bonus Reward Token, High-APY Pool & DexScreener Boosted Coin CLI Radar for Base, Arbitrum, Optimism & Solana.",
+        "language": "JavaScript",
         "stars": 0,
-        "pushed_at": "2026-10-15T17:01:52Z"
-      },
-      {
-        "full_name": "hronaut/hronaut",
-        "html_url": "https://github.com/hronaut/hronaut",
-        "description": "The browser your coding agent can come back to — visible, persistent, isolated workspaces over MCP.",
-        "language": "TypeScript",
-        "stars": 6,
-        "pushed_at": "2026-10-15T17:02:13Z"
+        "pushed_at": "2026-10-16T16:40:13Z"
       },
       {
         "full_name": "PhoenixAB88/pulsar-network",
@@ -114,50 +106,58 @@ window.NARRATIVE_SCOUT = {
         "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
         "language": "HTML",
         "stars": 1,
-        "pushed_at": "2026-10-15T17:00:23Z"
+        "pushed_at": "2026-10-16T16:37:05Z"
       },
       {
-        "full_name": "HomeTownHer0/TownFund",
-        "html_url": "https://github.com/HomeTownHer0/TownFund",
-        "description": "Community fundraising on Solana: pledge USDC into escrow, 95/5 payout on success, 100% refunds on failure, soulbound backer badges. Live on Devnet.",
+        "full_name": "satohubai/sato-agent",
+        "html_url": "https://github.com/satohubai/sato-agent",
+        "description": "⬡ Sato Agent — turn a Grok Bot into an onchain agent: its own wallet on Base + Solana, x402 payments, ERC-8004 identity, spending limits its owner sets. Checks with Sato Hub before it spends. No token. MIT.",
+        "language": "JavaScript",
+        "stars": 1,
+        "pushed_at": "2026-10-16T16:33:29Z"
+      },
+      {
+        "full_name": "quicknode/solana-program-examples",
+        "html_url": "https://github.com/quicknode/solana-program-examples",
+        "description": "Working, tested, up-to-date examples of common Solana programs - maintained by Quicknode",
         "language": "Rust",
-        "stars": 0,
-        "pushed_at": "2026-10-15T16:58:58Z"
+        "stars": 33,
+        "pushed_at": "2026-10-16T16:26:17Z"
       },
       {
-        "full_name": "softseco/sentinel",
-        "html_url": "https://github.com/softseco/sentinel",
-        "description": "Programmable compliance for Token-2022 tokenized assets on Solana — allowlist, blocklist & transfer limits via Transfer Hooks.",
+        "full_name": "fomotsar-commits/tegridy-farms",
+        "html_url": "https://github.com/fomotsar-commits/tegridy-farms",
+        "description": "memetics.finance, the venue of Jungle Bay Island. The Tegridy Farms protocol: DEX, staking, NFT finance and token launchers on Ethereum, Base and Robinhood Chain. On Solana: Jupiter swap, Streamflow staking, and our own launcher and AMM (live since 2026-09-29, owned by a Squads vault).",
         "language": "TypeScript",
-        "stars": 0,
-        "pushed_at": "2026-10-15T16:32:32Z"
+        "stars": 1,
+        "pushed_at": "2026-10-16T15:58:40Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 5014 TPS",
+      "label": "Sample 6: 5226 TPS",
+      "height": 99
+    },
+    {
+      "label": "Sample 5: 5274 TPS",
       "height": 100
     },
     {
-      "label": "Sample 5: 5021 TPS",
-      "height": 100
-    },
-    {
-      "label": "Sample 4: 4940 TPS",
-      "height": 98
-    },
-    {
-      "label": "Sample 3: 4851 TPS",
+      "label": "Sample 4: 5102 TPS",
       "height": 97
     },
     {
-      "label": "Sample 2: 4942 TPS",
-      "height": 98
+      "label": "Sample 3: 4934 TPS",
+      "height": 94
     },
     {
-      "label": "Sample 1: 4947 TPS",
-      "height": 99
+      "label": "Sample 2: 5097 TPS",
+      "height": 97
+    },
+    {
+      "label": "Sample 1: 4887 TPS",
+      "height": 93
     }
   ],
   "narratives": [
@@ -182,9 +182,13 @@ window.NARRATIVE_SCOUT = {
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 130,
+      "score": 134,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "satohubai/sato-agent"
+        },
         {
           "source": "News",
           "text": "Payment Channels: 1 Million Payments Per Second"
@@ -192,10 +196,6 @@ window.NARRATIVE_SCOUT = {
         {
           "source": "News",
           "text": "Payments on Solana: September 2026 in Five Stories"
-        },
-        {
-          "source": "GitHub",
-          "text": "dfinity/oisy-wallet"
         },
         {
           "source": "GitHub",
@@ -224,24 +224,24 @@ window.NARRATIVE_SCOUT = {
         "Agent triage bot that turns news headlines into opportunity notes.",
         "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 116,
+      "score": 124,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "hronaut/hronaut"
+          "text": "satohubai/sato-agent"
         },
         {
           "source": "GitHub",
-          "text": "dfinity/oisy-wallet"
-        },
-        {
-          "source": "GitHub",
-          "text": "HomeTownHer0/TownFund"
+          "text": "NeverSight/NeverD"
         },
         {
           "source": "GitHub",
           "text": "PhoenixAB88/pulsar-network"
+        },
+        {
+          "source": "GitHub",
+          "text": "COEFR/Argos-Memecoin-sniper"
         }
       ]
     },
@@ -267,16 +267,59 @@ window.NARRATIVE_SCOUT = {
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
+      "score": 112,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "New1Direction/repo.ing"
+        },
+        {
+          "source": "GitHub",
+          "text": "fomotsar-commits/tegridy-farms"
+        },
+        {
+          "source": "GitHub",
+          "text": "quicknode/solana-program-examples"
+        }
+      ]
+    },
+    {
+      "id": "defi",
+      "name": "DeFi",
+      "radarLabel": "Market activity",
+      "accent": "#27D6C8",
+      "trend": "Warming",
+      "keywords": [
+        "swap",
+        "liquidity",
+        "trading",
+        "perp",
+        "prediction",
+        "yield",
+        "dex",
+        "market"
+      ],
+      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
+      "buildIdeas": [
+        "Dex narrative board that maps launch headlines to venue activity.",
+        "Perp and prediction market radar for fast-moving builder attention.",
+        "Liquidity lens that compares ecosystem launches with onchain pressure."
+      ],
       "score": 106,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "softseco/sentinel"
+          "text": "fomotsar-commits/tegridy-farms"
         },
         {
           "source": "GitHub",
-          "text": "Crossmint/crossmint-sdk"
+          "text": "lienhoatienphung-svg/defi-bonus-yield-radar"
+        },
+        {
+          "source": "GitHub",
+          "text": "New1Direction/repo.ing"
         }
       ]
     },
@@ -301,13 +344,9 @@ window.NARRATIVE_SCOUT = {
         "Treasury and settlement tracker for stablecoin rails.",
         "Cross-chain asset intake monitor for new market entrances."
       ],
-      "score": 98,
+      "score": 92,
       "recency": 64,
       "evidence": [
-        {
-          "source": "GitHub",
-          "text": "softseco/sentinel"
-        },
         {
           "source": "News",
           "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
@@ -335,47 +374,12 @@ window.NARRATIVE_SCOUT = {
         "Community growth radar that highlights social and app-store signals.",
         "Campaign board for products trying to reach non-crypto users."
       ],
-      "score": 96,
+      "score": 90,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "HomeTownHer0/TownFund"
-        },
-        {
-          "source": "GitHub",
-          "text": "cjohnsongh/guild-saga-analytics"
-        }
-      ]
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "radarLabel": "Market activity",
-      "accent": "#27D6C8",
-      "trend": "Warming",
-      "keywords": [
-        "swap",
-        "liquidity",
-        "trading",
-        "perp",
-        "prediction",
-        "yield",
-        "dex",
-        "market"
-      ],
-      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
-      "buildIdeas": [
-        "Dex narrative board that maps launch headlines to venue activity.",
-        "Perp and prediction market radar for fast-moving builder attention.",
-        "Liquidity lens that compares ecosystem launches with onchain pressure."
-      ],
-      "score": 84,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "Signal",
-          "text": "No direct keyword hit, but the theme remains relevant."
+          "text": "fomotsar-commits/tegridy-farms"
         }
       ]
     },
@@ -442,12 +446,12 @@ window.NARRATIVE_SCOUT = {
       ]
     },
     {
-      "category": "RWA",
-      "title": "RWA launch board with bank and asset-onboarding headlines.",
-      "description": "Asset onboarding and traditional finance headlines are the clearest bridge to real-world adoption stories. Treasury and settlement tracker for stablecoin rails. Cross-chain asset intake monitor for new market entrances.",
+      "category": "DeFi",
+      "title": "Dex narrative board that maps launch headlines to venue activity.",
+      "description": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals. Perp and prediction market radar for fast-moving builder attention. Liquidity lens that compares ecosystem launches with onchain pressure.",
       "tags": [
-        "Early",
-        "Real assets",
+        "Warming",
+        "Market activity",
         "Ship fast"
       ]
     },
