@@ -1,12 +1,12 @@
 window.NARRATIVE_SCOUT = {
-  "generatedAt": "2026-10-18T15:53:28.610Z",
+  "generatedAt": "2026-10-19T18:43:48.917Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 5408.6,
-    "peakTps": 5736.5,
-    "avgSlots": 275.3
+    "avgTps": 5016.6,
+    "peakTps": 5332.7,
+    "avgSlots": 271.8
   },
   "sources": {
     "news": [
@@ -69,140 +69,98 @@ window.NARRATIVE_SCOUT = {
     ],
     "repos": [
       {
-        "full_name": "COEFR/Argos-Memecoin-sniper",
-        "html_url": "https://github.com/COEFR/Argos-Memecoin-sniper",
-        "description": "Argos: detecta grupos de wallets que compran juntas en Solana leyendo la blockchain. Cosecha lanzamientos de pump.fun, arma los grupos con union-find, mide cada aviso contra el resultado real y corre un test de control contra tokens al azar.",
-        "language": "Python",
-        "stars": 1,
-        "pushed_at": "2026-10-18T15:53:11Z"
+        "full_name": "NeverSight/NeverD",
+        "html_url": "https://github.com/NeverSight/NeverD",
+        "description": "The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]",
+        "language": "C++",
+        "stars": 94,
+        "pushed_at": "2026-10-19T18:43:11Z"
       },
       {
-        "full_name": "XFuel-Lab/chit402",
-        "html_url": "https://github.com/XFuel-Lab/chit402",
-        "description": "The book for paid AI compute. Hub, model, and amount on collected rows you hold.",
+        "full_name": "DylComp/pump-tower",
+        "html_url": "https://github.com/DylComp/pump-tower",
+        "description": "Your Solana bags become a pixel skyscraper. Launch pump.fun coins for any pump user; every fee buys back and burns $PTWR.",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-19T18:43:14Z"
+      },
+      {
+        "full_name": "Tymofii-thc/oath",
+        "html_url": "https://github.com/Tymofii-thc/oath",
+        "description": "Anchor CI image digests on Solana and block deploys of images the pipeline did not build",
         "language": "JavaScript",
         "stars": 1,
-        "pushed_at": "2026-10-18T15:53:10Z"
-      },
-      {
-        "full_name": "PhoenixAB88/pulsar-network",
-        "html_url": "https://github.com/PhoenixAB88/pulsar-network",
-        "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
-        "language": "HTML",
-        "stars": 1,
-        "pushed_at": "2026-10-18T15:52:06Z"
+        "pushed_at": "2026-10-19T18:40:57Z"
       },
       {
         "full_name": "CrocSwap/goSVM",
         "html_url": "https://github.com/CrocSwap/goSVM",
         "description": "Write Solana and Fogo programs in Go. A compiler from a Go subset to SBF, with generated account validation, Go clients and local SVM tests. Public alpha.",
         "language": "Go",
-        "stars": 4,
-        "pushed_at": "2026-10-18T15:51:46Z"
+        "stars": 6,
+        "pushed_at": "2026-10-19T18:39:09Z"
       },
       {
-        "full_name": "mikhailpetridis81602/x402-client",
-        "html_url": "https://github.com/mikhailpetridis81602/x402-client",
-        "description": "Client SDK for the Vybe x402 API. Pay-per-call USDC over HTTP and prepaid-credit WebSocket streaming for Vybe's Solana analytics API. Built for AI agents.",
+        "full_name": "ValidatorsDAO/slv",
+        "html_url": "https://github.com/ValidatorsDAO/slv",
+        "description": "The AI Agent Kit for Solana Devs",
         "language": "TypeScript",
+        "stars": 96,
+        "pushed_at": "2026-10-19T18:41:33Z"
+      },
+      {
+        "full_name": "seekdaseek/iussum",
+        "html_url": "https://github.com/seekdaseek/iussum",
+        "description": "Who pays when an AI agent pays wrong: a signed grant, a seller check before settlement, and a resolver that assigns liability from the artifacts. x402 on Solana, devnet.",
+        "language": "JavaScript",
         "stars": 0,
-        "pushed_at": "2026-10-18T15:51:43Z"
+        "pushed_at": "2026-10-19T18:37:44Z"
       },
       {
-        "full_name": "h100envy/crawl-hive",
-        "html_url": "https://github.com/h100envy/crawl-hive",
-        "description": "Memecoin safety swarm on Solana: Instant Crawl scans, Launch Radar, Narrative Radar, Clean Launch on pump.fun, user-owned crawlers, x402 for AI agents, $CRAWLHIVE buyback & burn.",
+        "full_name": "Landfall-ST/landfall",
+        "html_url": "https://github.com/Landfall-ST/landfall",
+        "description": "Independent, ledger-derived settlement intelligence for Stellar anchors  know if the money landed before a wallet routes a payment.",
         "language": "TypeScript",
-        "stars": 115,
-        "pushed_at": "2026-10-18T15:51:06Z"
+        "stars": 1,
+        "pushed_at": "2026-10-19T18:00:17Z"
       },
       {
-        "full_name": "kathadotfun/katha",
-        "html_url": "https://github.com/kathadotfun/katha",
-        "description": "Solana-powered RWAs to preserve Nepali art and culture through verified provenance and digital ownership.",
-        "language": "TypeScript",
-        "stars": 0,
-        "pushed_at": "2026-10-18T15:50:37Z"
-      },
-      {
-        "full_name": "Milerius/trenchmart",
-        "html_url": "https://github.com/Milerius/trenchmart",
-        "description": "TrenchMart: a Solana marketplace for trading scripts, bot configs and wallet trackers. Every upload is scanned (antivirus, static checks, sandbox, AI review) and buyer SOL is held in on-chain escrow. Devnet beta.",
-        "language": "TypeScript",
-        "stars": 0,
-        "pushed_at": "2026-10-18T15:51:35Z"
+        "full_name": "thesithunyein/owed",
+        "html_url": "https://github.com/thesithunyein/owed",
+        "description": "Owed — correctness and risk monitoring for tokenized stocks and PreStocks on Solana",
+        "language": "HTML",
+        "stars": 1,
+        "pushed_at": "2026-10-19T17:50:25Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 5140 TPS",
+      "label": "Sample 6: 4989 TPS",
+      "height": 94
+    },
+    {
+      "label": "Sample 5: 4810 TPS",
       "height": 90
     },
     {
-      "label": "Sample 5: 5485 TPS",
-      "height": 96
+      "label": "Sample 4: 4922 TPS",
+      "height": 92
     },
     {
-      "label": "Sample 4: 5736 TPS",
+      "label": "Sample 3: 5006 TPS",
+      "height": 94
+    },
+    {
+      "label": "Sample 2: 5333 TPS",
       "height": 100
     },
     {
-      "label": "Sample 3: 5278 TPS",
-      "height": 92
-    },
-    {
-      "label": "Sample 2: 5274 TPS",
-      "height": 92
-    },
-    {
-      "label": "Sample 1: 5537 TPS",
-      "height": 97
+      "label": "Sample 1: 5040 TPS",
+      "height": 95
     }
   ],
   "narratives": [
-    {
-      "id": "ai-agents",
-      "name": "AI Agents",
-      "radarLabel": "Agent tooling",
-      "accent": "#7C8CFF",
-      "trend": "Hot",
-      "keywords": [
-        "agent",
-        "agents",
-        "mcp",
-        "autonomous",
-        "assistant",
-        "bot",
-        "ai"
-      ],
-      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
-      "buildIdeas": [
-        "Narrative monitor that alerts when Solana agent repos spike.",
-        "Agent triage bot that turns news headlines into opportunity notes.",
-        "Protocol watchlist for MCP-compatible wallet and transaction tools."
-      ],
-      "score": 130,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "h100envy/crawl-hive"
-        },
-        {
-          "source": "GitHub",
-          "text": "mikhailpetridis81602/x402-client"
-        },
-        {
-          "source": "GitHub",
-          "text": "Milerius/trenchmart"
-        },
-        {
-          "source": "GitHub",
-          "text": "XFuel-Lab/chit402"
-        }
-      ]
-    },
     {
       "id": "payments",
       "name": "Payments",
@@ -224,9 +182,13 @@ window.NARRATIVE_SCOUT = {
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 130,
+      "score": 126,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "Landfall-ST/landfall"
+        },
         {
           "source": "News",
           "text": "Payment Channels: 1 Million Payments Per Second"
@@ -236,12 +198,8 @@ window.NARRATIVE_SCOUT = {
           "text": "Payments on Solana: September 2026 in Five Stories"
         },
         {
-          "source": "GitHub",
-          "text": "Milerius/trenchmart"
-        },
-        {
-          "source": "GitHub",
-          "text": "COEFR/Argos-Memecoin-sniper"
+          "source": "News",
+          "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
         }
       ]
     },
@@ -267,51 +225,62 @@ window.NARRATIVE_SCOUT = {
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
+      "score": 118,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "CrocSwap/goSVM"
+        },
+        {
+          "source": "GitHub",
+          "text": "Tymofii-thc/oath"
+        },
+        {
+          "source": "GitHub",
+          "text": "ValidatorsDAO/slv"
+        },
+        {
+          "source": "GitHub",
+          "text": "Landfall-ST/landfall"
+        }
+      ]
+    },
+    {
+      "id": "ai-agents",
+      "name": "AI Agents",
+      "radarLabel": "Agent tooling",
+      "accent": "#7C8CFF",
+      "trend": "Hot",
+      "keywords": [
+        "agent",
+        "agents",
+        "mcp",
+        "autonomous",
+        "assistant",
+        "bot",
+        "ai"
+      ],
+      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
+      "buildIdeas": [
+        "Narrative monitor that alerts when Solana agent repos spike.",
+        "Agent triage bot that turns news headlines into opportunity notes.",
+        "Protocol watchlist for MCP-compatible wallet and transaction tools."
+      ],
       "score": 106,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "CrocSwap/goSVM"
+          "text": "ValidatorsDAO/slv"
         },
         {
           "source": "GitHub",
-          "text": "mikhailpetridis81602/x402-client"
-        }
-      ]
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "radarLabel": "Market activity",
-      "accent": "#27D6C8",
-      "trend": "Warming",
-      "keywords": [
-        "swap",
-        "liquidity",
-        "trading",
-        "perp",
-        "prediction",
-        "yield",
-        "dex",
-        "market"
-      ],
-      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
-      "buildIdeas": [
-        "Dex narrative board that maps launch headlines to venue activity.",
-        "Perp and prediction market radar for fast-moving builder attention.",
-        "Liquidity lens that compares ecosystem launches with onchain pressure."
-      ],
-      "score": 98,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "Milerius/trenchmart"
+          "text": "seekdaseek/iussum"
         },
         {
           "source": "GitHub",
-          "text": "CrocSwap/goSVM"
+          "text": "NeverSight/NeverD"
         }
       ]
     },
@@ -346,6 +315,37 @@ window.NARRATIVE_SCOUT = {
       ]
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "radarLabel": "Market activity",
+      "accent": "#27D6C8",
+      "trend": "Warming",
+      "keywords": [
+        "swap",
+        "liquidity",
+        "trading",
+        "perp",
+        "prediction",
+        "yield",
+        "dex",
+        "market"
+      ],
+      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
+      "buildIdeas": [
+        "Dex narrative board that maps launch headlines to venue activity.",
+        "Perp and prediction market radar for fast-moving builder attention.",
+        "Liquidity lens that compares ecosystem launches with onchain pressure."
+      ],
+      "score": 90,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "CrocSwap/goSVM"
+        }
+      ]
+    },
+    {
       "id": "consumer",
       "name": "Consumer",
       "radarLabel": "Distribution",
@@ -371,7 +371,7 @@ window.NARRATIVE_SCOUT = {
       "evidence": [
         {
           "source": "GitHub",
-          "text": "h100envy/crawl-hive"
+          "text": "DylComp/pump-tower"
         }
       ]
     },
@@ -396,27 +396,17 @@ window.NARRATIVE_SCOUT = {
         "Auto-generated audit brief with severity and repo context.",
         "Patch tracker for the fastest-moving public fixes."
       ],
-      "score": 84,
+      "score": 90,
       "recency": 64,
       "evidence": [
         {
-          "source": "Signal",
-          "text": "No direct keyword hit, but the theme remains relevant."
+          "source": "GitHub",
+          "text": "thesithunyein/owed"
         }
       ]
     }
   ],
   "recommendations": [
-    {
-      "category": "AI Agents",
-      "title": "Narrative monitor that alerts when Solana agent repos spike.",
-      "description": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal. Agent triage bot that turns news headlines into opportunity notes. Protocol watchlist for MCP-compatible wallet and transaction tools.",
-      "tags": [
-        "Hot",
-        "Agent tooling",
-        "Ship fast"
-      ]
-    },
     {
       "category": "Payments",
       "title": "Merchant adoption tracker with new payment-product mentions.",
@@ -438,12 +428,22 @@ window.NARRATIVE_SCOUT = {
       ]
     },
     {
-      "category": "DeFi",
-      "title": "Dex narrative board that maps launch headlines to venue activity.",
-      "description": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals. Perp and prediction market radar for fast-moving builder attention. Liquidity lens that compares ecosystem launches with onchain pressure.",
+      "category": "AI Agents",
+      "title": "Narrative monitor that alerts when Solana agent repos spike.",
+      "description": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal. Agent triage bot that turns news headlines into opportunity notes. Protocol watchlist for MCP-compatible wallet and transaction tools.",
       "tags": [
-        "Warming",
-        "Market activity",
+        "Hot",
+        "Agent tooling",
+        "Ship fast"
+      ]
+    },
+    {
+      "category": "RWA",
+      "title": "RWA launch board with bank and asset-onboarding headlines.",
+      "description": "Asset onboarding and traditional finance headlines are the clearest bridge to real-world adoption stories. Treasury and settlement tracker for stablecoin rails. Cross-chain asset intake monitor for new market entrances.",
+      "tags": [
+        "Early",
+        "Real assets",
         "Ship fast"
       ]
     },
