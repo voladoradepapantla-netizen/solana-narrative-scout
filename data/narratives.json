@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T17:10:20.493Z",
+  "generatedAt": "2026-10-21T17:14:21.053Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 5515.9,
-    "peakTps": 5913.5,
-    "avgSlots": 278.5
+    "avgTps": 2064.9,
+    "peakTps": 2212.8,
+    "avgSlots": 281.3
   },
   "sources": {
     "news": [
@@ -69,95 +69,95 @@
     ],
     "repos": [
       {
-        "full_name": "hronaut/hronaut",
-        "html_url": "https://github.com/hronaut/hronaut",
-        "description": "The browser your coding agent can come back to — visible, persistent, isolated workspaces over MCP.",
-        "language": "TypeScript",
-        "stars": 6,
-        "pushed_at": "2026-10-20T17:10:12Z"
-      },
-      {
-        "full_name": "firedancer-io/firedancer",
-        "html_url": "https://github.com/firedancer-io/firedancer",
-        "description": "Firedancer is Jump Crypto's Solana validator software.",
-        "language": "C",
-        "stars": 1532,
-        "pushed_at": "2026-10-20T17:10:07Z"
-      },
-      {
         "full_name": "lienhoatienphung-svg/defi-bonus-yield-radar",
         "html_url": "https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar",
         "description": "Real-time DeFi Bonus Reward Token, High-APY Pool & DexScreener Boosted Coin CLI Radar for Base, Arbitrum, Optimism & Solana.",
         "language": "JavaScript",
         "stars": 0,
-        "pushed_at": "2026-10-20T17:10:05Z"
+        "pushed_at": "2026-10-21T17:13:47Z"
       },
       {
-        "full_name": "Tymofii-thc/oath",
-        "html_url": "https://github.com/Tymofii-thc/oath",
-        "description": "Anchor CI image digests on Solana and block deploys of images the pipeline did not build",
+        "full_name": "andreolf/solbeat",
+        "html_url": "https://github.com/andreolf/solbeat",
+        "description": "The heartbeat terminal for the Solana network — zero-key, auto-updating ecosystem report & dashboard",
+        "language": "Python",
+        "stars": 1,
+        "pushed_at": "2026-10-21T17:13:36Z"
+      },
+      {
+        "full_name": "superpios/node-scorecard",
+        "html_url": "https://github.com/superpios/node-scorecard",
+        "description": "Network intelligence & historical diagnostics for Sentinel dVPN nodes. Reliability scores, official SLA test results, lease tracking, \"where to host\" advisor — no backend, fully static.",
+        "language": "HTML",
+        "stars": 4,
+        "pushed_at": "2026-10-21T17:12:51Z"
+      },
+      {
+        "full_name": "ech2corrosionrrd/w3ir-browser",
+        "html_url": "https://github.com/ech2corrosionrrd/w3ir-browser",
+        "description": "W3IR Browser — приватний браузер для Windows на Chromium (Electron): вбудований гаманець EVM і Solana з розбором підписів і симуляцією, захист від шахрайства, локальний ШІ-помічник, 6 мов (MIT)",
         "language": "JavaScript",
-        "stars": 1,
-        "pushed_at": "2026-10-20T17:09:31Z"
+        "stars": 0,
+        "pushed_at": "2026-10-21T17:12:15Z"
       },
       {
-        "full_name": "PhoenixAB88/pulsar-network",
-        "html_url": "https://github.com/PhoenixAB88/pulsar-network",
-        "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
-        "language": "HTML",
+        "full_name": "drexthealpha/Knos",
+        "html_url": "https://github.com/drexthealpha/Knos",
+        "description": "Knos carries research across the valley of death: each step is paid only on verified proof.",
+        "language": "Python",
         "stars": 1,
-        "pushed_at": "2026-10-20T17:07:06Z"
+        "pushed_at": "2026-10-21T17:09:53Z"
       },
       {
-        "full_name": "OneKeyHQ/app-monorepo",
-        "html_url": "https://github.com/OneKeyHQ/app-monorepo",
-        "description": "Secure, open source and community driven crypto wallet runs on all platforms and trusted by millions.",
+        "full_name": "stakemap-sol/Solana-Stake-Pools-Research",
+        "html_url": "https://github.com/stakemap-sol/Solana-Stake-Pools-Research",
+        "description": "Open dataset behind StakeMap - whose stake is where on Solana. Registry of stake pools and delegation programs, epoch snapshots since July 2025, JSON API docs, notes on the delegation rules of each pool.",
+        "language": null,
+        "stars": 16,
+        "pushed_at": "2026-10-21T17:08:34Z"
+      },
+      {
+        "full_name": "peva3/anchor",
+        "html_url": "https://github.com/peva3/anchor",
+        "description": "Anchor — the production-grade AGENTS.md template for AI coding agents. 51 sections of battle-tested rules. Keep your agents grounded.",
+        "language": null,
+        "stars": 8,
+        "pushed_at": "2026-10-21T16:57:38Z"
+      },
+      {
+        "full_name": "auroraxo/solana-tx-remix",
+        "html_url": "https://github.com/auroraxo/solana-tx-remix",
+        "description": "Editable, verifiable recipes for Solana transactions: public signature in, byte-identical instruction set out (top-level + CPI), with negative controls for the binding checks. Pure Node 24, zero deps.",
         "language": "TypeScript",
-        "stars": 2471,
-        "pushed_at": "2026-10-20T17:09:03Z"
-      },
-      {
-        "full_name": "fomotsar-commits/tegridy-farms",
-        "html_url": "https://github.com/fomotsar-commits/tegridy-farms",
-        "description": "memetics.finance, the venue of Jungle Bay Island. The Tegridy Farms protocol: DEX, staking, NFT finance and token launchers on Ethereum, Base and Robinhood Chain. On Solana: Jupiter swap, Streamflow staking, and our own launcher and AMM (live since 2026-09-29, owned by a Squads vault).",
-        "language": "TypeScript",
-        "stars": 1,
-        "pushed_at": "2026-10-20T17:08:17Z"
-      },
-      {
-        "full_name": "thesithunyein/owed",
-        "html_url": "https://github.com/thesithunyein/owed",
-        "description": "Owed — correctness and risk monitoring for tokenized stocks and PreStocks on Solana",
-        "language": "HTML",
-        "stars": 1,
-        "pushed_at": "2026-10-20T15:54:12Z"
+        "stars": 0,
+        "pushed_at": "2026-10-21T16:57:27Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 5727 TPS",
-      "height": 97
-    },
-    {
-      "label": "Sample 5: 5402 TPS",
-      "height": 91
-    },
-    {
-      "label": "Sample 4: 5274 TPS",
-      "height": 89
-    },
-    {
-      "label": "Sample 3: 5261 TPS",
-      "height": 89
-    },
-    {
-      "label": "Sample 2: 5518 TPS",
-      "height": 93
-    },
-    {
-      "label": "Sample 1: 5914 TPS",
+      "label": "Sample 6: 2213 TPS",
       "height": 100
+    },
+    {
+      "label": "Sample 5: 1957 TPS",
+      "height": 88
+    },
+    {
+      "label": "Sample 4: 1969 TPS",
+      "height": 89
+    },
+    {
+      "label": "Sample 3: 2117 TPS",
+      "height": 96
+    },
+    {
+      "label": "Sample 2: 2114 TPS",
+      "height": 96
+    },
+    {
+      "label": "Sample 1: 2020 TPS",
+      "height": 91
     }
   ],
   "narratives": [
@@ -182,7 +182,7 @@
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 124,
+      "score": 118,
       "recency": 64,
       "evidence": [
         {
@@ -192,10 +192,6 @@
         {
           "source": "News",
           "text": "Payments on Solana: September 2026 in Five Stories"
-        },
-        {
-          "source": "GitHub",
-          "text": "OneKeyHQ/app-monorepo"
         },
         {
           "source": "News",
@@ -225,20 +221,16 @@
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 112,
+      "score": 106,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "Tymofii-thc/oath"
+          "text": "peva3/anchor"
         },
         {
           "source": "GitHub",
-          "text": "firedancer-io/firedancer"
-        },
-        {
-          "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
+          "text": "stakemap-sol/Solana-Stake-Pools-Research"
         }
       ]
     },
@@ -263,20 +255,16 @@
         "Agent triage bot that turns news headlines into opportunity notes.",
         "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 104,
+      "score": 100,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "hronaut/hronaut"
+          "text": "peva3/anchor"
         },
         {
           "source": "GitHub",
-          "text": "PhoenixAB88/pulsar-network"
-        },
-        {
-          "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
+          "text": "drexthealpha/Knos"
         }
       ]
     },
@@ -302,50 +290,16 @@
         "Perp and prediction market radar for fast-moving builder attention.",
         "Liquidity lens that compares ecosystem launches with onchain pressure."
       ],
-      "score": 100,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
-        },
-        {
-          "source": "GitHub",
-          "text": "lienhoatienphung-svg/defi-bonus-yield-radar"
-        }
-      ]
-    },
-    {
-      "id": "consumer",
-      "name": "Consumer",
-      "radarLabel": "Distribution",
-      "accent": "#FF7A85",
-      "trend": "Emerging",
-      "keywords": [
-        "consumer",
-        "social",
-        "game",
-        "mobile",
-        "community",
-        "launch",
-        "app"
-      ],
-      "summary": "Consumer products often start as launch headlines before they are obvious from pure onchain data.",
-      "buildIdeas": [
-        "Consumer launch tracker that ranks the loudest new apps.",
-        "Community growth radar that highlights social and app-store signals.",
-        "Campaign board for products trying to reach non-crypto users."
-      ],
       "score": 98,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "OneKeyHQ/app-monorepo"
+          "text": "lienhoatienphung-svg/defi-bonus-yield-radar"
         },
         {
           "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
+          "text": "superpios/node-scorecard"
         }
       ]
     },
@@ -380,6 +334,36 @@
       ]
     },
     {
+      "id": "consumer",
+      "name": "Consumer",
+      "radarLabel": "Distribution",
+      "accent": "#FF7A85",
+      "trend": "Emerging",
+      "keywords": [
+        "consumer",
+        "social",
+        "game",
+        "mobile",
+        "community",
+        "launch",
+        "app"
+      ],
+      "summary": "Consumer products often start as launch headlines before they are obvious from pure onchain data.",
+      "buildIdeas": [
+        "Consumer launch tracker that ranks the loudest new apps.",
+        "Community growth radar that highlights social and app-store signals.",
+        "Campaign board for products trying to reach non-crypto users."
+      ],
+      "score": 84,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "Signal",
+          "text": "No direct keyword hit, but the theme remains relevant."
+        }
+      ]
+    },
+    {
       "id": "security",
       "name": "Security",
       "radarLabel": "Risk surface",
@@ -400,12 +384,12 @@
         "Auto-generated audit brief with severity and repo context.",
         "Patch tracker for the fastest-moving public fixes."
       ],
-      "score": 90,
+      "score": 84,
       "recency": 64,
       "evidence": [
         {
-          "source": "GitHub",
-          "text": "thesithunyein/owed"
+          "source": "Signal",
+          "text": "No direct keyword hit, but the theme remains relevant."
         }
       ]
     }
