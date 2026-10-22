@@ -1,12 +1,12 @@
 window.NARRATIVE_SCOUT = {
-  "generatedAt": "2026-10-21T17:14:21.053Z",
+  "generatedAt": "2026-10-22T17:12:38.851Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 2064.9,
-    "peakTps": 2212.8,
-    "avgSlots": 281.3
+    "avgTps": 2386.9,
+    "peakTps": 2703.8,
+    "avgSlots": 281.2
   },
   "sources": {
     "news": [
@@ -69,95 +69,95 @@ window.NARRATIVE_SCOUT = {
     ],
     "repos": [
       {
-        "full_name": "lienhoatienphung-svg/defi-bonus-yield-radar",
-        "html_url": "https://github.com/lienhoatienphung-svg/defi-bonus-yield-radar",
-        "description": "Real-time DeFi Bonus Reward Token, High-APY Pool & DexScreener Boosted Coin CLI Radar for Base, Arbitrum, Optimism & Solana.",
-        "language": "JavaScript",
-        "stars": 0,
-        "pushed_at": "2026-10-21T17:13:47Z"
-      },
-      {
-        "full_name": "andreolf/solbeat",
-        "html_url": "https://github.com/andreolf/solbeat",
-        "description": "The heartbeat terminal for the Solana network — zero-key, auto-updating ecosystem report & dashboard",
-        "language": "Python",
-        "stars": 1,
-        "pushed_at": "2026-10-21T17:13:36Z"
-      },
-      {
-        "full_name": "superpios/node-scorecard",
-        "html_url": "https://github.com/superpios/node-scorecard",
-        "description": "Network intelligence & historical diagnostics for Sentinel dVPN nodes. Reliability scores, official SLA test results, lease tracking, \"where to host\" advisor — no backend, fully static.",
-        "language": "HTML",
-        "stars": 4,
-        "pushed_at": "2026-10-21T17:12:51Z"
-      },
-      {
-        "full_name": "ech2corrosionrrd/w3ir-browser",
-        "html_url": "https://github.com/ech2corrosionrrd/w3ir-browser",
-        "description": "W3IR Browser — приватний браузер для Windows на Chromium (Electron): вбудований гаманець EVM і Solana з розбором підписів і симуляцією, захист від шахрайства, локальний ШІ-помічник, 6 мов (MIT)",
-        "language": "JavaScript",
-        "stars": 0,
-        "pushed_at": "2026-10-21T17:12:15Z"
-      },
-      {
         "full_name": "drexthealpha/Knos",
         "html_url": "https://github.com/drexthealpha/Knos",
         "description": "Knos carries research across the valley of death: each step is paid only on verified proof.",
         "language": "Python",
         "stars": 1,
-        "pushed_at": "2026-10-21T17:09:53Z"
+        "pushed_at": "2026-10-22T17:12:09Z"
       },
       {
-        "full_name": "stakemap-sol/Solana-Stake-Pools-Research",
-        "html_url": "https://github.com/stakemap-sol/Solana-Stake-Pools-Research",
-        "description": "Open dataset behind StakeMap - whose stake is where on Solana. Registry of stake pools and delegation programs, epoch snapshots since July 2025, JSON API docs, notes on the delegation rules of each pool.",
-        "language": null,
-        "stars": 16,
-        "pushed_at": "2026-10-21T17:08:34Z"
-      },
-      {
-        "full_name": "peva3/anchor",
-        "html_url": "https://github.com/peva3/anchor",
-        "description": "Anchor — the production-grade AGENTS.md template for AI coding agents. 51 sections of battle-tested rules. Keep your agents grounded.",
-        "language": null,
-        "stars": 8,
-        "pushed_at": "2026-10-21T16:57:38Z"
-      },
-      {
-        "full_name": "auroraxo/solana-tx-remix",
-        "html_url": "https://github.com/auroraxo/solana-tx-remix",
-        "description": "Editable, verifiable recipes for Solana transactions: public signature in, byte-identical instruction set out (top-level + CPI), with negative controls for the binding checks. Pure Node 24, zero deps.",
+        "full_name": "NoBanks/debate-desk",
+        "html_url": "https://github.com/NoBanks/debate-desk",
+        "description": "Bull and bear agents argue from the same market evidence, a judge decides, and every practice trade lands on Solana with its reasoning trail committed on chain.",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-21T16:57:27Z"
+        "pushed_at": "2026-10-22T17:10:29Z"
+      },
+      {
+        "full_name": "sabijuraa/turnstile",
+        "html_url": "https://github.com/sabijuraa/turnstile",
+        "description": "Pay-per-request payment rails for AI agents on Solana, built on x402",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-22T17:09:36Z"
+      },
+      {
+        "full_name": "sebdev89/life-engine-cryptobot-service",
+        "html_url": "https://github.com/sebdev89/life-engine-cryptobot-service",
+        "description": "Proof of Value for Autonomous Agents — verifiable AI execution, attribution and rewards on Solana.",
+        "language": "Java",
+        "stars": 1,
+        "pushed_at": "2026-10-22T17:08:48Z"
+      },
+      {
+        "full_name": "api-evangelist/kamino",
+        "html_url": "https://github.com/api-evangelist/kamino",
+        "description": "Kamino — independent third-party profile of a public API surface, by API Evangelist. Kamino Finance is a Solana DeFi protocol for lending and borrowing (Kamino Lend / klend), automated concentrated-liquidity and yield vaults (Kamino Earn / kvault), leveraged 'Multiply' strategies, limit orders, token swaps, and the Scope price-oracle aggregator.",
+        "language": null,
+        "stars": 0,
+        "pushed_at": "2026-10-22T17:08:01Z"
+      },
+      {
+        "full_name": "andrey-ivanov-eng1998x8/solana-wallet-tracker",
+        "html_url": "https://github.com/andrey-ivanov-eng1998x8/solana-wallet-tracker",
+        "description": "solana-wallet-tracker: lightweight CLI to watch Solana wallet activity. polls public RPC and prints formatted token transfer summa",
+        "language": "Python",
+        "stars": 0,
+        "pushed_at": "2026-10-22T17:08:00Z"
+      },
+      {
+        "full_name": "belumume/solana-fuzz",
+        "html_url": "https://github.com/belumume/solana-fuzz",
+        "description": "Claude Code / Codex skill that writes Trident property and invariant fuzz tests for Solana programs (Anchor and native).",
+        "language": "Rust",
+        "stars": 3,
+        "pushed_at": "2026-10-22T16:52:14Z"
+      },
+      {
+        "full_name": "ConfidentialCreator/Confidential-Creator-Support",
+        "html_url": "https://github.com/ConfidentialCreator/Confidential-Creator-Support",
+        "description": "Support creators on Solana where everyone can see that you support them — and nobody can see how much. Token-2022 confidential transfers, devnet demo.",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-22T16:30:42Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 2213 TPS",
-      "height": 100
+      "label": "Sample 6: 2489 TPS",
+      "height": 92
     },
     {
-      "label": "Sample 5: 1957 TPS",
-      "height": 88
+      "label": "Sample 5: 2438 TPS",
+      "height": 90
     },
     {
-      "label": "Sample 4: 1969 TPS",
-      "height": 89
-    },
-    {
-      "label": "Sample 3: 2117 TPS",
-      "height": 96
-    },
-    {
-      "label": "Sample 2: 2114 TPS",
-      "height": 96
-    },
-    {
-      "label": "Sample 1: 2020 TPS",
+      "label": "Sample 4: 2447 TPS",
       "height": 91
+    },
+    {
+      "label": "Sample 3: 1931 TPS",
+      "height": 71
+    },
+    {
+      "label": "Sample 2: 2312 TPS",
+      "height": 86
+    },
+    {
+      "label": "Sample 1: 2704 TPS",
+      "height": 100
     }
   ],
   "narratives": [
@@ -182,7 +182,7 @@ window.NARRATIVE_SCOUT = {
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 118,
+      "score": 130,
       "recency": 64,
       "evidence": [
         {
@@ -194,8 +194,54 @@ window.NARRATIVE_SCOUT = {
           "text": "Payments on Solana: September 2026 in Five Stories"
         },
         {
-          "source": "News",
-          "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
+          "source": "GitHub",
+          "text": "sabijuraa/turnstile"
+        },
+        {
+          "source": "GitHub",
+          "text": "andrey-ivanov-eng1998x8/solana-wallet-tracker"
+        }
+      ]
+    },
+    {
+      "id": "ai-agents",
+      "name": "AI Agents",
+      "radarLabel": "Agent tooling",
+      "accent": "#7C8CFF",
+      "trend": "Hot",
+      "keywords": [
+        "agent",
+        "agents",
+        "mcp",
+        "autonomous",
+        "assistant",
+        "bot",
+        "ai"
+      ],
+      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
+      "buildIdeas": [
+        "Narrative monitor that alerts when Solana agent repos spike.",
+        "Agent triage bot that turns news headlines into opportunity notes.",
+        "Protocol watchlist for MCP-compatible wallet and transaction tools."
+      ],
+      "score": 124,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "sebdev89/life-engine-cryptobot-service"
+        },
+        {
+          "source": "GitHub",
+          "text": "NoBanks/debate-desk"
+        },
+        {
+          "source": "GitHub",
+          "text": "sabijuraa/turnstile"
+        },
+        {
+          "source": "GitHub",
+          "text": "drexthealpha/Knos"
         }
       ]
     },
@@ -221,50 +267,20 @@ window.NARRATIVE_SCOUT = {
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 106,
+      "score": 114,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "peva3/anchor"
+          "text": "belumume/solana-fuzz"
         },
         {
           "source": "GitHub",
-          "text": "stakemap-sol/Solana-Stake-Pools-Research"
-        }
-      ]
-    },
-    {
-      "id": "ai-agents",
-      "name": "AI Agents",
-      "radarLabel": "Agent tooling",
-      "accent": "#7C8CFF",
-      "trend": "Hot",
-      "keywords": [
-        "agent",
-        "agents",
-        "mcp",
-        "autonomous",
-        "assistant",
-        "bot",
-        "ai"
-      ],
-      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
-      "buildIdeas": [
-        "Narrative monitor that alerts when Solana agent repos spike.",
-        "Agent triage bot that turns news headlines into opportunity notes.",
-        "Protocol watchlist for MCP-compatible wallet and transaction tools."
-      ],
-      "score": 100,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "peva3/anchor"
+          "text": "api-evangelist/kamino"
         },
         {
           "source": "GitHub",
-          "text": "drexthealpha/Knos"
+          "text": "andrey-ivanov-eng1998x8/solana-wallet-tracker"
         }
       ]
     },
@@ -290,16 +306,20 @@ window.NARRATIVE_SCOUT = {
         "Perp and prediction market radar for fast-moving builder attention.",
         "Liquidity lens that compares ecosystem launches with onchain pressure."
       ],
-      "score": 98,
+      "score": 106,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "lienhoatienphung-svg/defi-bonus-yield-radar"
+          "text": "api-evangelist/kamino"
         },
         {
           "source": "GitHub",
-          "text": "superpios/node-scorecard"
+          "text": "NoBanks/debate-desk"
+        },
+        {
+          "source": "GitHub",
+          "text": "belumume/solana-fuzz"
         }
       ]
     },
@@ -324,9 +344,13 @@ window.NARRATIVE_SCOUT = {
         "Treasury and settlement tracker for stablecoin rails.",
         "Cross-chain asset intake monitor for new market entrances."
       ],
-      "score": 92,
+      "score": 98,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "NoBanks/debate-desk"
+        },
         {
           "source": "News",
           "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
@@ -406,22 +430,22 @@ window.NARRATIVE_SCOUT = {
       ]
     },
     {
-      "category": "Infrastructure",
-      "title": "Repo watchlist for Anchor, SDK, and protocol releases.",
-      "description": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter. Health dashboard for validators, RPC, and developer tooling mentions. Release note summarizer that converts infra updates into digest cards.",
-      "tags": [
-        "Steady",
-        "Builder stack",
-        "Ship fast"
-      ]
-    },
-    {
       "category": "AI Agents",
       "title": "Narrative monitor that alerts when Solana agent repos spike.",
       "description": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal. Agent triage bot that turns news headlines into opportunity notes. Protocol watchlist for MCP-compatible wallet and transaction tools.",
       "tags": [
         "Hot",
         "Agent tooling",
+        "Ship fast"
+      ]
+    },
+    {
+      "category": "Infrastructure",
+      "title": "Repo watchlist for Anchor, SDK, and protocol releases.",
+      "description": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter. Health dashboard for validators, RPC, and developer tooling mentions. Release note summarizer that converts infra updates into digest cards.",
+      "tags": [
+        "Steady",
+        "Builder stack",
         "Ship fast"
       ]
     },
