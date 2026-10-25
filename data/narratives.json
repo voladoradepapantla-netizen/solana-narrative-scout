@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T15:58:37.281Z",
+  "generatedAt": "2026-10-25T16:24:47.828Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 2247.2,
-    "peakTps": 2495.5,
-    "avgSlots": 283
+    "avgTps": 1551.7,
+    "peakTps": 1642.1,
+    "avgSlots": 281.2
   },
   "sources": {
     "news": [
@@ -69,44 +69,12 @@
     ],
     "repos": [
       {
-        "full_name": "seekdaseek/plugin-agentfeed",
-        "html_url": "https://github.com/seekdaseek/plugin-agentfeed",
-        "description": "elizaOS plugin: live crypto market data (liquidations, positioning, funding, token risk) paid per-call in USDC via x402 on Solana. No API keys.",
+        "full_name": "sol-repair/sol.repair",
+        "html_url": "https://github.com/sol-repair/sol.repair",
+        "description": "Reclaim locked SOL rent from empty token accounts. Read-only connection, you sign every transaction. Open source.",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-24T15:58:10Z"
-      },
-      {
-        "full_name": "Boing-Network/boing.finance",
-        "html_url": "https://github.com/Boing-Network/boing.finance",
-        "description": "Cross-chain DeFi for Boing Network L1, EVM, and Solana",
-        "language": "JavaScript",
-        "stars": 0,
-        "pushed_at": "2026-10-24T15:57:11Z"
-      },
-      {
-        "full_name": "andreolf/solbeat",
-        "html_url": "https://github.com/andreolf/solbeat",
-        "description": "The heartbeat terminal for the Solana network — zero-key, auto-updating ecosystem report & dashboard",
-        "language": "Python",
-        "stars": 1,
-        "pushed_at": "2026-10-24T15:56:57Z"
-      },
-      {
-        "full_name": "BadmonLano/flow-cycle",
-        "html_url": "https://github.com/BadmonLano/flow-cycle",
-        "description": "Live crypto cycle index for BTC, ETH and SOL. Three SI brains, every call graded in public.",
-        "language": "HTML",
-        "stars": 1,
-        "pushed_at": "2026-10-24T15:56:10Z"
-      },
-      {
-        "full_name": "getvlana/status",
-        "html_url": "https://github.com/getvlana/status",
-        "description": "Live status of the Vlana network, sampled every 15 minutes by GitHub Actions. 30 days of history in git.",
-        "language": "HTML",
-        "stars": 0,
-        "pushed_at": "2026-10-24T15:56:01Z"
+        "pushed_at": "2026-10-25T16:24:32Z"
       },
       {
         "full_name": "PhoenixAB88/pulsar-network",
@@ -114,53 +82,127 @@
         "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
         "language": "HTML",
         "stars": 1,
-        "pushed_at": "2026-10-24T15:52:05Z"
+        "pushed_at": "2026-10-25T16:22:06Z"
       },
       {
-        "full_name": "franRappazzini/reflex",
-        "html_url": "https://github.com/franRappazzini/reflex",
-        "description": "Reflex is a Solana protocol for adding transparent, time-weighted incentives to binary prediction markets. A market has YES and NO outcome tokens and one shared incentive pool",
-        "language": "Rust",
-        "stars": 0,
-        "pushed_at": "2026-10-24T15:34:02Z"
-      },
-      {
-        "full_name": "thesithunyein/owed",
-        "html_url": "https://github.com/thesithunyein/owed",
-        "description": "Owed — correctness and risk monitoring for tokenized stocks and PreStocks on Solana",
+        "full_name": "BadmonLano/flow-cycle",
+        "html_url": "https://github.com/BadmonLano/flow-cycle",
+        "description": "Live crypto cycle index for BTC, ETH and SOL. Three SI brains, every call graded in public.",
         "language": "HTML",
         "stars": 1,
-        "pushed_at": "2026-10-24T14:56:50Z"
+        "pushed_at": "2026-10-25T16:21:16Z"
+      },
+      {
+        "full_name": "superpios/node-scorecard",
+        "html_url": "https://github.com/superpios/node-scorecard",
+        "description": "Network intelligence & historical diagnostics for Sentinel dVPN nodes. Reliability scores, official SLA test results, lease tracking, \"where to host\" advisor — no backend, fully static.",
+        "language": "HTML",
+        "stars": 4,
+        "pushed_at": "2026-10-25T16:20:05Z"
+      },
+      {
+        "full_name": "NoBanks/debate-desk",
+        "html_url": "https://github.com/NoBanks/debate-desk",
+        "description": "Bull and bear agents argue from the same market evidence, a judge decides, and every practice trade lands on Solana with its reasoning trail committed on chain.",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-25T16:18:45Z"
+      },
+      {
+        "full_name": "drexthealpha/Knos",
+        "html_url": "https://github.com/drexthealpha/Knos",
+        "description": "Knos carries research across the valley of death: each step is paid only on verified proof.",
+        "language": "Python",
+        "stars": 1,
+        "pushed_at": "2026-10-25T16:18:35Z"
+      },
+      {
+        "full_name": "joaquinbejar/matchbook",
+        "html_url": "https://github.com/joaquinbejar/matchbook",
+        "description": "Decentralized exchange infrastructure on Solana: on-chain order book, real-time WebSocket streaming, REST API, Geyser indexer, and Rust SDK. Non-custodial and optimized for high-frequency trading.",
+        "language": "Rust",
+        "stars": 18,
+        "pushed_at": "2026-10-25T16:14:55Z"
+      },
+      {
+        "full_name": "fomotsar-commits/tegridy-farms",
+        "html_url": "https://github.com/fomotsar-commits/tegridy-farms",
+        "description": "memetics.finance, the venue of Jungle Bay Island. The Tegridy Farms protocol: DEX, staking, NFT finance and token launchers on Ethereum, Base and Robinhood Chain. On Solana: Jupiter swap, Streamflow staking, and our own launcher and AMM (live since 2026-09-29, owned by a Squads vault).",
+        "language": "TypeScript",
+        "stars": 1,
+        "pushed_at": "2026-10-25T15:56:18Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 2152 TPS",
-      "height": 86
+      "label": "Sample 6: 1599 TPS",
+      "height": 97
     },
     {
-      "label": "Sample 5: 2143 TPS",
-      "height": 86
+      "label": "Sample 5: 1559 TPS",
+      "height": 95
     },
     {
-      "label": "Sample 4: 2292 TPS",
-      "height": 92
+      "label": "Sample 4: 1548 TPS",
+      "height": 94
     },
     {
-      "label": "Sample 3: 2136 TPS",
-      "height": 86
-    },
-    {
-      "label": "Sample 2: 2265 TPS",
-      "height": 91
-    },
-    {
-      "label": "Sample 1: 2496 TPS",
+      "label": "Sample 3: 1642 TPS",
       "height": 100
+    },
+    {
+      "label": "Sample 2: 1455 TPS",
+      "height": 89
+    },
+    {
+      "label": "Sample 1: 1507 TPS",
+      "height": 92
     }
   ],
   "narratives": [
+    {
+      "id": "ai-agents",
+      "name": "AI Agents",
+      "radarLabel": "Agent tooling",
+      "accent": "#7C8CFF",
+      "trend": "Hot",
+      "keywords": [
+        "agent",
+        "agents",
+        "mcp",
+        "autonomous",
+        "assistant",
+        "bot",
+        "ai"
+      ],
+      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
+      "buildIdeas": [
+        "Narrative monitor that alerts when Solana agent repos spike.",
+        "Agent triage bot that turns news headlines into opportunity notes.",
+        "Protocol watchlist for MCP-compatible wallet and transaction tools."
+      ],
+      "score": 130,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "NoBanks/debate-desk"
+        },
+        {
+          "source": "GitHub",
+          "text": "drexthealpha/Knos"
+        },
+        {
+          "source": "GitHub",
+          "text": "sol-repair/sol.repair"
+        },
+        {
+          "source": "GitHub",
+          "text": "BadmonLano/flow-cycle"
+        }
+      ]
+    },
     {
       "id": "payments",
       "name": "Payments",
@@ -200,48 +242,6 @@
       ]
     },
     {
-      "id": "ai-agents",
-      "name": "AI Agents",
-      "radarLabel": "Agent tooling",
-      "accent": "#7C8CFF",
-      "trend": "Hot",
-      "keywords": [
-        "agent",
-        "agents",
-        "mcp",
-        "autonomous",
-        "assistant",
-        "bot",
-        "ai"
-      ],
-      "summary": "Agent tooling keeps showing up in repo names and ecosystem language, which makes it a durable early signal.",
-      "buildIdeas": [
-        "Narrative monitor that alerts when Solana agent repos spike.",
-        "Agent triage bot that turns news headlines into opportunity notes.",
-        "Protocol watchlist for MCP-compatible wallet and transaction tools."
-      ],
-      "score": 110,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "seekdaseek/plugin-agentfeed"
-        },
-        {
-          "source": "GitHub",
-          "text": "BadmonLano/flow-cycle"
-        },
-        {
-          "source": "GitHub",
-          "text": "PhoenixAB88/pulsar-network"
-        },
-        {
-          "source": "GitHub",
-          "text": "Boing-Network/boing.finance"
-        }
-      ]
-    },
-    {
       "id": "defi",
       "name": "DeFi",
       "radarLabel": "Market activity",
@@ -263,20 +263,24 @@
         "Perp and prediction market radar for fast-moving builder attention.",
         "Liquidity lens that compares ecosystem launches with onchain pressure."
       ],
-      "score": 104,
+      "score": 118,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "franRappazzini/reflex"
+          "text": "joaquinbejar/matchbook"
+        },
+        {
+          "source": "GitHub",
+          "text": "fomotsar-commits/tegridy-farms"
+        },
+        {
+          "source": "GitHub",
+          "text": "NoBanks/debate-desk"
         },
         {
           "source": "GitHub",
           "text": "BadmonLano/flow-cycle"
-        },
-        {
-          "source": "GitHub",
-          "text": "seekdaseek/plugin-agentfeed"
         }
       ]
     },
@@ -302,46 +306,16 @@
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 100,
+      "score": 110,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "franRappazzini/reflex"
-        }
-      ]
-    },
-    {
-      "id": "security",
-      "name": "Security",
-      "radarLabel": "Risk surface",
-      "accent": "#FFB24A",
-      "trend": "Attention",
-      "keywords": [
-        "security",
-        "audit",
-        "vulnerability",
-        "exploit",
-        "risk",
-        "bug",
-        "hardening"
-      ],
-      "summary": "Security activity is always actionable because it tends to correlate with urgent fixes, audits, and repo triage.",
-      "buildIdeas": [
-        "Security issue monitor that flags vulnerable Solana repos.",
-        "Auto-generated audit brief with severity and repo context.",
-        "Patch tracker for the fastest-moving public fixes."
-      ],
-      "score": 96,
-      "recency": 64,
-      "evidence": [
-        {
-          "source": "GitHub",
-          "text": "thesithunyein/owed"
+          "text": "joaquinbejar/matchbook"
         },
         {
           "source": "GitHub",
-          "text": "seekdaseek/plugin-agentfeed"
+          "text": "fomotsar-commits/tegridy-farms"
         }
       ]
     },
@@ -366,9 +340,13 @@
         "Treasury and settlement tracker for stablecoin rails.",
         "Cross-chain asset intake monitor for new market entrances."
       ],
-      "score": 92,
+      "score": 98,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "NoBanks/debate-desk"
+        },
         {
           "source": "News",
           "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
@@ -401,22 +379,42 @@
       "evidence": [
         {
           "source": "GitHub",
-          "text": "franRappazzini/reflex"
+          "text": "fomotsar-commits/tegridy-farms"
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "name": "Security",
+      "radarLabel": "Risk surface",
+      "accent": "#FFB24A",
+      "trend": "Attention",
+      "keywords": [
+        "security",
+        "audit",
+        "vulnerability",
+        "exploit",
+        "risk",
+        "bug",
+        "hardening"
+      ],
+      "summary": "Security activity is always actionable because it tends to correlate with urgent fixes, audits, and repo triage.",
+      "buildIdeas": [
+        "Security issue monitor that flags vulnerable Solana repos.",
+        "Auto-generated audit brief with severity and repo context.",
+        "Patch tracker for the fastest-moving public fixes."
+      ],
+      "score": 84,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "Signal",
+          "text": "No direct keyword hit, but the theme remains relevant."
         }
       ]
     }
   ],
   "recommendations": [
-    {
-      "category": "Payments",
-      "title": "Merchant adoption tracker with new payment-product mentions.",
-      "description": "Payments language is moving from abstract crypto talk into product announcements and platform integrations. Subscriptions and allowances dashboard for stablecoin flows. Consumer payment launch feed with one-click summaries.",
-      "tags": [
-        "Rising",
-        "Commercial rails",
-        "Ship fast"
-      ]
-    },
     {
       "category": "AI Agents",
       "title": "Narrative monitor that alerts when Solana agent repos spike.",
@@ -424,6 +422,16 @@
       "tags": [
         "Hot",
         "Agent tooling",
+        "Ship fast"
+      ]
+    },
+    {
+      "category": "Payments",
+      "title": "Merchant adoption tracker with new payment-product mentions.",
+      "description": "Payments language is moving from abstract crypto talk into product announcements and platform integrations. Subscriptions and allowances dashboard for stablecoin flows. Consumer payment launch feed with one-click summaries.",
+      "tags": [
+        "Rising",
+        "Commercial rails",
         "Ship fast"
       ]
     },
