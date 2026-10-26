@@ -1,12 +1,12 @@
 window.NARRATIVE_SCOUT = {
-  "generatedAt": "2026-10-25T16:24:47.828Z",
+  "generatedAt": "2026-10-26T18:41:42.300Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 1551.7,
-    "peakTps": 1642.1,
-    "avgSlots": 281.2
+    "avgTps": 2472.3,
+    "peakTps": 2842.5,
+    "avgSlots": 282
   },
   "sources": {
     "news": [
@@ -69,36 +69,12 @@ window.NARRATIVE_SCOUT = {
     ],
     "repos": [
       {
-        "full_name": "sol-repair/sol.repair",
-        "html_url": "https://github.com/sol-repair/sol.repair",
-        "description": "Reclaim locked SOL rent from empty token accounts. Read-only connection, you sign every transaction. Open source.",
+        "full_name": "RidDleZ33/eliza-sol-agent",
+        "html_url": "https://github.com/RidDleZ33/eliza-sol-agent",
+        "description": "RidSolBot. Solana paper desk. Code owns size and exits; LLM labels only. Tape records event-time paths.",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-25T16:24:32Z"
-      },
-      {
-        "full_name": "PhoenixAB88/pulsar-network",
-        "html_url": "https://github.com/PhoenixAB88/pulsar-network",
-        "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
-        "language": "HTML",
-        "stars": 1,
-        "pushed_at": "2026-10-25T16:22:06Z"
-      },
-      {
-        "full_name": "BadmonLano/flow-cycle",
-        "html_url": "https://github.com/BadmonLano/flow-cycle",
-        "description": "Live crypto cycle index for BTC, ETH and SOL. Three SI brains, every call graded in public.",
-        "language": "HTML",
-        "stars": 1,
-        "pushed_at": "2026-10-25T16:21:16Z"
-      },
-      {
-        "full_name": "superpios/node-scorecard",
-        "html_url": "https://github.com/superpios/node-scorecard",
-        "description": "Network intelligence & historical diagnostics for Sentinel dVPN nodes. Reliability scores, official SLA test results, lease tracking, \"where to host\" advisor — no backend, fully static.",
-        "language": "HTML",
-        "stars": 4,
-        "pushed_at": "2026-10-25T16:20:05Z"
+        "pushed_at": "2026-10-26T18:41:25Z"
       },
       {
         "full_name": "NoBanks/debate-desk",
@@ -106,58 +82,82 @@ window.NARRATIVE_SCOUT = {
         "description": "Bull and bear agents argue from the same market evidence, a judge decides, and every practice trade lands on Solana with its reasoning trail committed on chain.",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-25T16:18:45Z"
+        "pushed_at": "2026-10-26T18:41:23Z"
       },
       {
-        "full_name": "drexthealpha/Knos",
-        "html_url": "https://github.com/drexthealpha/Knos",
-        "description": "Knos carries research across the valley of death: each step is paid only on verified proof.",
-        "language": "Python",
-        "stars": 1,
-        "pushed_at": "2026-10-25T16:18:35Z"
+        "full_name": "blindseal-dev/blindseal",
+        "html_url": "https://github.com/blindseal-dev/blindseal",
+        "description": "Prove an agent's action was screened — without showing what it was. Privacy-preserving, verifiable screening for AI agents: local MCP proxy, zero-knowledge attestation, verified on Solana.",
+        "language": "JavaScript",
+        "stars": 0,
+        "pushed_at": "2026-10-26T18:40:00Z"
       },
       {
-        "full_name": "joaquinbejar/matchbook",
-        "html_url": "https://github.com/joaquinbejar/matchbook",
-        "description": "Decentralized exchange infrastructure on Solana: on-chain order book, real-time WebSocket streaming, REST API, Geyser indexer, and Rust SDK. Non-custodial and optimized for high-frequency trading.",
-        "language": "Rust",
-        "stars": 18,
-        "pushed_at": "2026-10-25T16:14:55Z"
+        "full_name": "neoamnesia/solana-memecoin-radar",
+        "html_url": "https://github.com/neoamnesia/solana-memecoin-radar",
+        "description": "Outil d'analyse gratuit pour repérer bundles, clusters de wallets liés et wallets de dev sur les memecoins Solana / pump.fun. Analyse uniquement, jamais d'achat.",
+        "language": null,
+        "stars": 0,
+        "pushed_at": "2026-10-26T18:39:58Z"
       },
       {
-        "full_name": "fomotsar-commits/tegridy-farms",
-        "html_url": "https://github.com/fomotsar-commits/tegridy-farms",
-        "description": "memetics.finance, the venue of Jungle Bay Island. The Tegridy Farms protocol: DEX, staking, NFT finance and token launchers on Ethereum, Base and Robinhood Chain. On Solana: Jupiter swap, Streamflow staking, and our own launcher and AMM (live since 2026-09-29, owned by a Squads vault).",
+        "full_name": "javierfer/pfm-rust-solana-2026",
+        "html_url": "https://github.com/javierfer/pfm-rust-solana-2026",
+        "description": "CaféChain — coffee supply-chain traceability on Solana: Anchor program, Next.js frontend, Open-Meteo oracle and MCP server. Master's final project.",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-26T18:39:26Z"
+      },
+      {
+        "full_name": "NeverSight/NeverD",
+        "html_url": "https://github.com/NeverSight/NeverD",
+        "description": "The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]",
+        "language": "C++",
+        "stars": 99,
+        "pushed_at": "2026-10-26T18:38:36Z"
+      },
+      {
+        "full_name": "calebnewtonusc/beacon",
+        "html_url": "https://github.com/calebnewtonusc/beacon",
+        "description": "On-chain reputation protocol on Solana. Soulbound attestations, ed25519-verified payloads, Helius-indexed reputation graph.",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-26T18:16:18Z"
+      },
+      {
+        "full_name": "Landfall-ST/landfall",
+        "html_url": "https://github.com/Landfall-ST/landfall",
+        "description": "Independent, ledger-derived settlement intelligence for Stellar anchors  know if the money landed before a wallet routes a payment.",
         "language": "TypeScript",
         "stars": 1,
-        "pushed_at": "2026-10-25T15:56:18Z"
+        "pushed_at": "2026-10-26T17:56:45Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 1599 TPS",
-      "height": 97
+      "label": "Sample 6: 2050 TPS",
+      "height": 72
     },
     {
-      "label": "Sample 5: 1559 TPS",
-      "height": 95
+      "label": "Sample 5: 2081 TPS",
+      "height": 73
     },
     {
-      "label": "Sample 4: 1548 TPS",
-      "height": 94
+      "label": "Sample 4: 2418 TPS",
+      "height": 85
     },
     {
-      "label": "Sample 3: 1642 TPS",
+      "label": "Sample 3: 2655 TPS",
+      "height": 93
+    },
+    {
+      "label": "Sample 2: 2842 TPS",
       "height": 100
     },
     {
-      "label": "Sample 2: 1455 TPS",
-      "height": 89
-    },
-    {
-      "label": "Sample 1: 1507 TPS",
-      "height": 92
+      "label": "Sample 1: 2787 TPS",
+      "height": 98
     }
   ],
   "narratives": [
@@ -182,24 +182,24 @@ window.NARRATIVE_SCOUT = {
         "Agent triage bot that turns news headlines into opportunity notes.",
         "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 130,
+      "score": 140,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "blindseal-dev/blindseal"
+        },
         {
           "source": "GitHub",
           "text": "NoBanks/debate-desk"
         },
         {
           "source": "GitHub",
-          "text": "drexthealpha/Knos"
+          "text": "RidDleZ33/eliza-sol-agent"
         },
         {
           "source": "GitHub",
-          "text": "sol-repair/sol.repair"
-        },
-        {
-          "source": "GitHub",
-          "text": "BadmonLano/flow-cycle"
+          "text": "javierfer/pfm-rust-solana-2026"
         }
       ]
     },
@@ -224,9 +224,13 @@ window.NARRATIVE_SCOUT = {
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 118,
+      "score": 132,
       "recency": 64,
       "evidence": [
+        {
+          "source": "GitHub",
+          "text": "Landfall-ST/landfall"
+        },
         {
           "source": "News",
           "text": "Payment Channels: 1 Million Payments Per Second"
@@ -236,51 +240,8 @@ window.NARRATIVE_SCOUT = {
           "text": "Payments on Solana: September 2026 in Five Stories"
         },
         {
-          "source": "News",
-          "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
-        }
-      ]
-    },
-    {
-      "id": "defi",
-      "name": "DeFi",
-      "radarLabel": "Market activity",
-      "accent": "#27D6C8",
-      "trend": "Warming",
-      "keywords": [
-        "swap",
-        "liquidity",
-        "trading",
-        "perp",
-        "prediction",
-        "yield",
-        "dex",
-        "market"
-      ],
-      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
-      "buildIdeas": [
-        "Dex narrative board that maps launch headlines to venue activity.",
-        "Perp and prediction market radar for fast-moving builder attention.",
-        "Liquidity lens that compares ecosystem launches with onchain pressure."
-      ],
-      "score": 118,
-      "recency": 64,
-      "evidence": [
-        {
           "source": "GitHub",
-          "text": "joaquinbejar/matchbook"
-        },
-        {
-          "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
-        },
-        {
-          "source": "GitHub",
-          "text": "NoBanks/debate-desk"
-        },
-        {
-          "source": "GitHub",
-          "text": "BadmonLano/flow-cycle"
+          "text": "neoamnesia/solana-memecoin-radar"
         }
       ]
     },
@@ -306,16 +267,20 @@ window.NARRATIVE_SCOUT = {
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 110,
+      "score": 114,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "joaquinbejar/matchbook"
+          "text": "javierfer/pfm-rust-solana-2026"
         },
         {
           "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
+          "text": "Landfall-ST/landfall"
+        },
+        {
+          "source": "GitHub",
+          "text": "calebnewtonusc/beacon"
         }
       ]
     },
@@ -354,6 +319,41 @@ window.NARRATIVE_SCOUT = {
       ]
     },
     {
+      "id": "defi",
+      "name": "DeFi",
+      "radarLabel": "Market activity",
+      "accent": "#27D6C8",
+      "trend": "Warming",
+      "keywords": [
+        "swap",
+        "liquidity",
+        "trading",
+        "perp",
+        "prediction",
+        "yield",
+        "dex",
+        "market"
+      ],
+      "summary": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals.",
+      "buildIdeas": [
+        "Dex narrative board that maps launch headlines to venue activity.",
+        "Perp and prediction market radar for fast-moving builder attention.",
+        "Liquidity lens that compares ecosystem launches with onchain pressure."
+      ],
+      "score": 96,
+      "recency": 64,
+      "evidence": [
+        {
+          "source": "GitHub",
+          "text": "NoBanks/debate-desk"
+        },
+        {
+          "source": "GitHub",
+          "text": "calebnewtonusc/beacon"
+        }
+      ]
+    },
+    {
       "id": "consumer",
       "name": "Consumer",
       "radarLabel": "Distribution",
@@ -374,12 +374,12 @@ window.NARRATIVE_SCOUT = {
         "Community growth radar that highlights social and app-store signals.",
         "Campaign board for products trying to reach non-crypto users."
       ],
-      "score": 90,
+      "score": 84,
       "recency": 64,
       "evidence": [
         {
-          "source": "GitHub",
-          "text": "fomotsar-commits/tegridy-farms"
+          "source": "Signal",
+          "text": "No direct keyword hit, but the theme remains relevant."
         }
       ]
     },
@@ -436,22 +436,22 @@ window.NARRATIVE_SCOUT = {
       ]
     },
     {
-      "category": "DeFi",
-      "title": "Dex narrative board that maps launch headlines to venue activity.",
-      "description": "Trading, liquidity, and market-structure language still produce some of the clearest cycle-to-cycle signals. Perp and prediction market radar for fast-moving builder attention. Liquidity lens that compares ecosystem launches with onchain pressure.",
-      "tags": [
-        "Warming",
-        "Market activity",
-        "Ship fast"
-      ]
-    },
-    {
       "category": "Infrastructure",
       "title": "Repo watchlist for Anchor, SDK, and protocol releases.",
       "description": "Infrastructure stays relevant because new releases, SDKs, and programs tend to produce repeated technical chatter. Health dashboard for validators, RPC, and developer tooling mentions. Release note summarizer that converts infra updates into digest cards.",
       "tags": [
         "Steady",
         "Builder stack",
+        "Ship fast"
+      ]
+    },
+    {
+      "category": "RWA",
+      "title": "RWA launch board with bank and asset-onboarding headlines.",
+      "description": "Asset onboarding and traditional finance headlines are the clearest bridge to real-world adoption stories. Treasury and settlement tracker for stablecoin rails. Cross-chain asset intake monitor for new market entrances.",
+      "tags": [
+        "Early",
+        "Real assets",
         "Ship fast"
       ]
     },
