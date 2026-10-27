@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-26T18:41:42.300Z",
+  "generatedAt": "2026-10-27T18:02:08.581Z",
   "stats": {
     "newsCount": 8,
     "repoCount": 8,
     "sampleWindow": 60,
-    "avgTps": 2472.3,
-    "peakTps": 2842.5,
-    "avgSlots": 282
+    "avgTps": 2463.4,
+    "peakTps": 2603.2,
+    "avgSlots": 282.3
   },
   "sources": {
     "news": [
@@ -46,6 +46,13 @@
         "signal": "Solana News"
       },
       {
+        "title": "Solana Breakpoint 2026 Adds Revolut Chair, Former Prime Minister, Former Chancellor and City Leaders to London Lineup",
+        "url": "https://solana.com/news/breakpoint-london-lineup",
+        "summary": "A fresh Solana headline worth folding into the narrative model.",
+        "published": "Recent",
+        "signal": "Solana News"
+      },
+      {
         "title": "Geo-Aware Leader Schedule",
         "url": "https://solana.com/news/geo-aware-leader-schedule",
         "summary": "A fresh Solana headline worth folding into the narrative model.",
@@ -58,106 +65,99 @@
         "summary": "A fresh Solana headline worth folding into the narrative model.",
         "published": "Recent",
         "signal": "Solana News"
-      },
-      {
-        "title": "Payments on Solana: September 2026 in Five Stories",
-        "url": "https://solana.com/news/payments-on-solana-september-2026-in-five-stories",
-        "summary": "Payments and real-world settlement are part of the story.",
-        "published": "Recent",
-        "signal": "Solana News"
       }
     ],
     "repos": [
-      {
-        "full_name": "RidDleZ33/eliza-sol-agent",
-        "html_url": "https://github.com/RidDleZ33/eliza-sol-agent",
-        "description": "RidSolBot. Solana paper desk. Code owns size and exits; LLM labels only. Tape records event-time paths.",
-        "language": "TypeScript",
-        "stars": 0,
-        "pushed_at": "2026-10-26T18:41:25Z"
-      },
       {
         "full_name": "NoBanks/debate-desk",
         "html_url": "https://github.com/NoBanks/debate-desk",
         "description": "Bull and bear agents argue from the same market evidence, a judge decides, and every practice trade lands on Solana with its reasoning trail committed on chain.",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-26T18:41:23Z"
+        "pushed_at": "2026-10-27T18:01:38Z"
       },
       {
-        "full_name": "blindseal-dev/blindseal",
-        "html_url": "https://github.com/blindseal-dev/blindseal",
-        "description": "Prove an agent's action was screened — without showing what it was. Privacy-preserving, verifiable screening for AI agents: local MCP proxy, zero-knowledge attestation, verified on Solana.",
-        "language": "JavaScript",
-        "stars": 0,
-        "pushed_at": "2026-10-26T18:40:00Z"
-      },
-      {
-        "full_name": "neoamnesia/solana-memecoin-radar",
-        "html_url": "https://github.com/neoamnesia/solana-memecoin-radar",
-        "description": "Outil d'analyse gratuit pour repérer bundles, clusters de wallets liés et wallets de dev sur les memecoins Solana / pump.fun. Analyse uniquement, jamais d'achat.",
-        "language": null,
-        "stars": 0,
-        "pushed_at": "2026-10-26T18:39:58Z"
-      },
-      {
-        "full_name": "javierfer/pfm-rust-solana-2026",
-        "html_url": "https://github.com/javierfer/pfm-rust-solana-2026",
-        "description": "CaféChain — coffee supply-chain traceability on Solana: Anchor program, Next.js frontend, Open-Meteo oracle and MCP server. Master's final project.",
-        "language": "TypeScript",
-        "stars": 0,
-        "pushed_at": "2026-10-26T18:39:26Z"
-      },
-      {
-        "full_name": "NeverSight/NeverD",
-        "html_url": "https://github.com/NeverSight/NeverD",
-        "description": "The AI-friendly binary analysis & decompilation engine — 1:1 lift, built on LLVM [WIP]",
+        "full_name": "tgibbsz32/forgecoin",
+        "html_url": "https://github.com/tgibbsz32/forgecoin",
+        "description": "Repository for the Forgecoin Crypto Network build items, roadmap, documents, and supporting releases.",
         "language": "C++",
-        "stars": 99,
-        "pushed_at": "2026-10-26T18:38:36Z"
+        "stars": 1,
+        "pushed_at": "2026-10-27T18:01:13Z"
       },
       {
-        "full_name": "calebnewtonusc/beacon",
-        "html_url": "https://github.com/calebnewtonusc/beacon",
-        "description": "On-chain reputation protocol on Solana. Soulbound attestations, ed25519-verified payloads, Helius-indexed reputation graph.",
+        "full_name": "vortex-tools/vortex-dashboard",
+        "html_url": "https://github.com/vortex-tools/vortex-dashboard",
+        "description": "Solana validator monitoring",
         "language": "TypeScript",
         "stars": 0,
-        "pushed_at": "2026-10-26T18:16:18Z"
+        "pushed_at": "2026-10-27T18:00:18Z"
       },
       {
-        "full_name": "Landfall-ST/landfall",
-        "html_url": "https://github.com/Landfall-ST/landfall",
-        "description": "Independent, ledger-derived settlement intelligence for Stellar anchors  know if the money landed before a wallet routes a payment.",
-        "language": "TypeScript",
+        "full_name": "PhoenixAB88/pulsar-network",
+        "html_url": "https://github.com/PhoenixAB88/pulsar-network",
+        "description": "Independent, source-available live monitor for the Xandeum pNode storage network on Solana. Not affiliated with Xandeum.",
+        "language": "HTML",
         "stars": 1,
-        "pushed_at": "2026-10-26T17:56:45Z"
+        "pushed_at": "2026-10-27T18:00:10Z"
+      },
+      {
+        "full_name": "hzblj/nitro-crypto",
+        "html_url": "https://github.com/hzblj/nitro-crypto",
+        "description": "Native cryptography for React Native and Expo: a Zig engine behind Nitro Modules, with chains as adapters.",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-27T18:01:59Z"
+      },
+      {
+        "full_name": "piggygang/explorer",
+        "html_url": "https://github.com/piggygang/explorer",
+        "description": "Public explorer for the Piggy collections — faceted attribute search, owner lookup and per-NFT transaction history.",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-27T17:59:53Z"
+      },
+      {
+        "full_name": "lamentierschweinchen/kommit",
+        "html_url": "https://github.com/lamentierschweinchen/kommit",
+        "description": "A conviction primitive for early-stage backing on Solana. Park money, send a real signal of conviction, withdraw anytime, earn kommits that compound.",
+        "language": "TypeScript",
+        "stars": 0,
+        "pushed_at": "2026-10-27T17:44:19Z"
+      },
+      {
+        "full_name": "solana-foundation/program-examples",
+        "html_url": "https://github.com/solana-foundation/program-examples",
+        "description": "A repository of Solana program examples",
+        "language": "TypeScript",
+        "stars": 1434,
+        "pushed_at": "2026-10-27T17:51:10Z"
       }
     ]
   },
   "chainSeries": [
     {
-      "label": "Sample 6: 2050 TPS",
-      "height": 72
+      "label": "Sample 6: 2395 TPS",
+      "height": 92
     },
     {
-      "label": "Sample 5: 2081 TPS",
-      "height": 73
+      "label": "Sample 5: 2574 TPS",
+      "height": 99
     },
     {
-      "label": "Sample 4: 2418 TPS",
+      "label": "Sample 4: 2201 TPS",
       "height": 85
     },
     {
-      "label": "Sample 3: 2655 TPS",
-      "height": 93
+      "label": "Sample 3: 2482 TPS",
+      "height": 95
     },
     {
-      "label": "Sample 2: 2842 TPS",
+      "label": "Sample 2: 2603 TPS",
       "height": 100
     },
     {
-      "label": "Sample 1: 2787 TPS",
-      "height": 98
+      "label": "Sample 1: 2526 TPS",
+      "height": 97
     }
   ],
   "narratives": [
@@ -182,24 +182,24 @@
         "Agent triage bot that turns news headlines into opportunity notes.",
         "Protocol watchlist for MCP-compatible wallet and transaction tools."
       ],
-      "score": 140,
+      "score": 114,
       "recency": 64,
       "evidence": [
-        {
-          "source": "GitHub",
-          "text": "blindseal-dev/blindseal"
-        },
         {
           "source": "GitHub",
           "text": "NoBanks/debate-desk"
         },
         {
           "source": "GitHub",
-          "text": "RidDleZ33/eliza-sol-agent"
+          "text": "hzblj/nitro-crypto"
         },
         {
           "source": "GitHub",
-          "text": "javierfer/pfm-rust-solana-2026"
+          "text": "PhoenixAB88/pulsar-network"
+        },
+        {
+          "source": "News",
+          "text": "Solana Breakpoint 2026 Adds Revolut Chair, Former Prime Minister, Former Chancellor and City Leaders to London Lineup"
         }
       ]
     },
@@ -224,24 +224,16 @@
         "Subscriptions and allowances dashboard for stablecoin flows.",
         "Consumer payment launch feed with one-click summaries."
       ],
-      "score": 132,
+      "score": 108,
       "recency": 64,
       "evidence": [
-        {
-          "source": "GitHub",
-          "text": "Landfall-ST/landfall"
-        },
         {
           "source": "News",
           "text": "Payment Channels: 1 Million Payments Per Second"
         },
         {
           "source": "News",
-          "text": "Payments on Solana: September 2026 in Five Stories"
-        },
-        {
-          "source": "GitHub",
-          "text": "neoamnesia/solana-memecoin-radar"
+          "text": "Samsung Partners with Solana to Natively Deliver Stablecoins in Samsung Wallet to 82 Million U.S. Galaxy Devices"
         }
       ]
     },
@@ -267,20 +259,16 @@
         "Health dashboard for validators, RPC, and developer tooling mentions.",
         "Release note summarizer that converts infra updates into digest cards."
       ],
-      "score": 114,
+      "score": 106,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
-          "text": "javierfer/pfm-rust-solana-2026"
+          "text": "vortex-tools/vortex-dashboard"
         },
         {
           "source": "GitHub",
-          "text": "Landfall-ST/landfall"
-        },
-        {
-          "source": "GitHub",
-          "text": "calebnewtonusc/beacon"
+          "text": "solana-foundation/program-examples"
         }
       ]
     },
@@ -340,16 +328,12 @@
         "Perp and prediction market radar for fast-moving builder attention.",
         "Liquidity lens that compares ecosystem launches with onchain pressure."
       ],
-      "score": 96,
+      "score": 90,
       "recency": 64,
       "evidence": [
         {
           "source": "GitHub",
           "text": "NoBanks/debate-desk"
-        },
-        {
-          "source": "GitHub",
-          "text": "calebnewtonusc/beacon"
         }
       ]
     },
